@@ -1,2 +1,2 @@
 # Kardashev
-Repo for Kargashev Game assets
+Repo for Kardashev Game assets
