@@ -137,11 +137,11 @@ When one player has two or fewer colonies remaining, complete the current round,
 
 **Scoring**
 
-**Colonies:** Level 1 colonies are worth 3 points; level 2 are worth 5 points; level 3 are worth 6 points.
+**_Colonies:_** Level 1 colonies are worth 3 points; level 2 are worth 5 points; level 3 are worth 6 points.
 
-**Fleets:** Worth points equal to its level.
+**_Fleets:_** Worth points equal to its level.
 
-**Technology:**  Worth points equal to its level on the tech tree.  
+**_Technology:_**  Worth points equal to its level on the tech tree.  
 
 The player with the highest combined score wins.  In the case of a tie, fight to the death to determine the actual winner (lasers are mandatory).
 
