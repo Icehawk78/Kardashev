@@ -6,14 +6,14 @@
 * 1 Game Board
 * 6 Role-based Starting Pieces
 * 6 Role Cards
-* 45 [Colonies](https://github.com/smartshaila/Kardashev/new/master#colonies) (15 of each color)
-* 45 [Fleets](https://github.com/smartshaila/Kardashev/new/master#fleets) (15 of each color) 
+* 45 [Colonies](#colonies) (15 of each color)
+* 45 [Fleets](#fleets) (15 of each color) 
 * 3 Technology Trees
 * 3 Pens
 * 3 Military Tiles
 * 21 Single Resource Tiles
 * 11 Hybrid Tiles
-* [Resource](https://github.com/smartshaila/Kardashev/new/master#resources) Cards
+* [Resource](#resources) Cards
 * Terraform Markers
 
 
@@ -32,7 +32,7 @@ Colonies built on resource tiles produce resource cards. Colonies built on milit
 Fleets provide defense and the option to attack an opponent’s tiles, as well as letting you explore.
  
 ## Setup
-Each player chooses one role (see [Roles](https://github.com/smartshaila/Kardashev/new/master#roles)) and gets the associated starting piece (which includes a home tile and additional starting tile).
+Each player chooses one role (see [Roles](#roles)) and gets the associated starting piece (which includes a home tile and additional starting tile).
 
 Players set up their starting pieces, in turn order. Everyone starts with a level one colony and a level one fleet. Place these on either tile on your starting piece. Draw a 🍐 and a 💎 resource card. Your resource cards are kept face-up in front of you.
 
