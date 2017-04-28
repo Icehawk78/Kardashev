@@ -32,47 +32,47 @@ Colonies built on resource tiles produce resource cards. Colonies built on milit
 Fleets provide defense and the option to attack an opponent’s tiles, as well as letting you explore.
  
 ## Setup
-Each player chooses one role (see [Roles](#roles)) and gets the associated starting piece (which includes a home tile and additional starting tile).
+Each player chooses one role (see [Roles](#roles)) and gets the associated starting tile (which includes a home tile and additional tile).  Each role has a different starting layout, with different numbers of colonies, fleets, resources, or tech.
 
-Players set up their starting pieces, in turn order. Everyone starts with a level one colony and a level one fleet. Place these on either tile on your starting piece. Draw a 🍐 and a 💎 resource card. Your resource cards are kept face-up in front of you.
+Players set up their starting pieces, in turn order. Place these on either tile on your starting piece. Draw a 🍐 and a 💎 resource card. Your resource cards are kept face-up in front of you.
 
 ## Roles
 
 *Collector*
 
-During setup, you get 2 additional resource cards.
+During setup, place a level one colony and a level one fleet.  You also draw 2 additional resource cards of your choice.
 When you harvest, you may gain one bonus resource of your choice, matching one you are able to produce.
 
 *Developer*
 
-During setup, instead of a level one colony on your home tile, you start with a level two colony.
+During setup, place a level two colony and a level one fleet.
 When you upgrade one of your colonies, you may gain a resource matching that of the tile. If you upgrade on a hybrid tile, you may choose which resource you gain. You must be able to afford the colony before gaining this resource.
 
 *Imperialist*
 
-During setup, you place an additional level one fleet from your supply on either of your starting tiles.
+During setup, place a level one colony and two level one fleets.
 When any player builds/upgrades a fleet, you may gain a resource of your choice. If this is on your turn, you must be able to afford the fleet before gaining this resource.
 
 *Pioneer*
 
-During setup, you place an additional level one colony from your supply on either of your starting tiles. 
+During setup, place two level one colonies and a level one fleet.
 When you build a colony on a resource tile, you may gain a resource matching that of the tile. If you build on a hybrid tile, you may choose which resource you gain. You must be able to afford the colony before gaining this resource.
 
 *Scientist*
 
-During setup, you begin with a level one technology.
+During setup, place a level one colony and a level one fleet.  You also select a level one technology.
 When any other player researches a technology, you may gain a resource matching one from the cost.
 
 *Warlord*
 
-During setup, instead of a level one fleet, you place a level two fleet.
+During setup, place a level one colony and a level two fleet.
 Once per turn, when you move a fleet, you may gain up to 8 resources matching the tiles through which you move. You do not gain resources if you fail an attack and must retreat. You must be able to afford the move before gaining the resources. You may only gain a resource once per tile per move action.
  
 ## Actions
 
 Phase 1: Bidding
 
-At the beginning of your turn, you will first bid to explore space.  Draw a tile from the bag.  You start the bidding at 0 resources. Bidding continues clockwise, with each player either raising the bid or passing until only one player remains.  If you win the bid, pay the bank.  If another player wins the bid, they pay you. 
+At the beginning of each turn, players will first bid to explore space.  Draw a tile from the bag.  You start the bidding at 0 resources. Bidding continues clockwise, with each player either raising the bid or passing until only one player remains.  If you win the bid, pay the bank.  If another player wins the bid, they pay you. 
 
 Phase 2: Exploration
 
