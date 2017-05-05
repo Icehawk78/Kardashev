@@ -121,6 +121,7 @@ On a failed attack, your offensive **fleet** retreats, and is pushed back into t
 **_Research Actions_**
 
 In addition to your 2 base actions, you have 2 research actions.  You may use these to:
+
 *Research* - You may research one technology from the tech tree, and indicate this with a marker.  Effects from technologies researched may be used immediately. 
 
 Technologies are a form of advancement in addition to providing points (see Scoring).
