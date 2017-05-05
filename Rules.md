@@ -82,7 +82,7 @@ Phase 3:  Actions
 
 Each turn, you may take two actions and two research actions.  Finalize all effects from an action before beginning your next. Some technologies cause slight changes in the base actions.
 
-**_Build Colony**/Colonize_ - You may **build** a level 1 **colony** on a tile adjacent to another of your **colonies**, or on a tile occupied by your **fleet**.  Cost:  1🍐, 1💎              
+**_Build Colony/Colonize_** - You may **build** a level 1 **colony** on a tile adjacent to another of your **colonies**, or on a tile occupied by your **fleet**.  Cost:  1🍐, 1💎              
 
 **_Upgrade Colony_** - You may **upgrade** one of your **colonies** by one level, up to level 3. Cost: 1🍐, 1💎
 
