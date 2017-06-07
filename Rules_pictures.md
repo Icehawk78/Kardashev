@@ -15,6 +15,7 @@
 * [Resource](#resources) Cards
 * Terraform Markers
 
+              #**COMPONENTS PICTURE- colonies, fleets, resources, etc.  Or include w/ individual description below**
 
 #### *Resources*
 
@@ -34,6 +35,8 @@ There are three types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. *
 Each player chooses one role (see [Roles](#roles)) and gets the associated starting tiles (which includes a home tile and additional tile).  Each role has a different starting layout, as indicated on the role card, with different numbers of colonies, fleets, resources, or tech.
 
 Players set up their starting pieces, in turn order. Draw one of each **resource**. Your **resources**  are kept in front of you as public information.
+
+                    #**SETUP PICTURE- starting tile layout w/ role card & starting pieces)**
 
 ## Roles
 
@@ -66,7 +69,9 @@ When any other player researches a technology, you may gain a **resource** match
 
 During setup, place a level one **colony** and a level two **fleet**.
 Once per turn, when you **move** a **fleet**, you may gain **resources** matching the tiles through which you **move**. You do not gain **resources** if you fail an attack and must retreat. You must be able to afford the **move** before gaining the **resources**. You may only gain a **resource** once per tile per **move** action.
- 
+
+# **WARLORD MOVE PICTURE- w/ resources example**
+
 ## Actions
 
 Phase 1: Bidding
@@ -74,6 +79,8 @@ Phase 1: Bidding
 At the beginning of each turn, players will first bid via a Vickrey auction to explore space.  Draw a tile from the bag.  
 Each player secretly decides how many resources to bid, and holds that number of colonies in their hand.  All players reveal their bids simultaneously.  If there is a tie for highest bid, those players roll a die to determine the winner.  The winner pays the second highest bid.  (Note, if two players tie for the highest bid, the "second highest" bid is the same.  It is the second highest bid, not second highest price). 
 If you win the bid, pay the bank.  If another player wins the bid, they pay you. 
+          
+          #**BIDDING EXAMPLE - with tied bid**
 
 Phase 2: Exploration
 
@@ -93,7 +100,7 @@ Each turn, you may take one base action, one research action, and one additional
 **_Upgrade Colony_** - You may **upgrade** one of your **colonies** by one level, up to level 3. Cost: 1🍐, 1💎
 
 **_Harvest_** - You collect **resources** from every resource tile on which you have a **colony** (one card per level).  You may choose which **resources** your hybrid **colonies** produce.
-
+**HARVEST PICTURE- hybrid example**
 **_Build/Upgrade Fleet_** - On your military **colony**, you may **build** a **fleet** up to the level of the **colony**, or **upgrade** an existing **fleet** by one level.
 
 **_Move Fleet_** - You may **move** 1 **fleet** as many explored tiles as you can afford, up to 8 tiles.
@@ -112,7 +119,7 @@ You may **move** your **fleet** into an unexplored space and draw one tile to im
  
 **_Attacking_**
 On your **move** action, if your **fleet** enters a tile occupied by another player’s **fleet** and/or **colony**, you attack.
-
+**ATTACK PICTURE- win & lose example**
 To win an attack, you must have a higher offensive strength than their defensive strength (a tie goes to the defender). **Fleet** and **colony** strength is equal to their level, plus any modifiers gained from technology.
 
 **_Supporting:_** 
@@ -123,7 +130,7 @@ On a successful attack, you take over by replacing their **colonies** with yours
 If a defensive **fleet** was on the attacked tile, it is destroyed and returned to their supply. 
 
 On a failed attack, your offensive **fleet** retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an empty tile through Warp Drive Technology or by passing through a tile that is occupied by another one of your **fleets**), the attacking **fleet** is destroyed.
- 
+ **SUPPORT PICTURE- offense & defense**
 
 **_Research Actions_**
 
