@@ -70,7 +70,7 @@ Once per turn, when you **move** a **fleet**, you may gain **resources** matchin
 
                     WARLORD MOVE PICTURE- w/ resources example
 
-## Actions
+## Phases
 
 Phase 1: Bidding
 
