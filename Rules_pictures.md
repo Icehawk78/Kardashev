@@ -9,9 +9,7 @@
 * 45 [Colonies](#colonies) (15 of each color)
 * 45 [Fleets](#fleets) (15 of each color) 
 * 3 Pens
-* 3 Military Tiles
-* 21 Single Resource Tiles
-* 11 Hybrid Tiles
+* 38 Tiles
 * [Resource](#resources) Cards
 * Terraform Markers
 
@@ -32,9 +30,9 @@ There are three types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. *
 **Fleets** provide defense and the option to attack an opponent’s tiles, as well as letting you explore.
  
 ## Setup
-Each player chooses one role (see [Roles](#roles)) and gets the associated starting tiles (which includes a home tile and additional tile).  Each role has a different starting layout, as indicated on the role card, with different numbers of colonies, fleets, resources, or tech.
+Each player chooses one role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or tech, as indicated on the role card.
 
-Players set up their starting pieces, in turn order. Draw one of each **resource**. Your **resources**  are kept in front of you as public information.
+Players set up their starting pieces in the purple starting zones. Draw one of each **resource**. Your **resources**  are kept in front of you as public information.
 
                     SETUP PICTURE- starting tile layout w/ role card & starting pieces)
 
@@ -63,12 +61,12 @@ When you **build/upgrade** a **colony** on a resource tile, you may gain a **res
 *Scientist*
 
 During setup, place a level one **colony** and a level one **fleet**.  You also select a level one technology.
-When any other player researches a technology, you may gain a **resource** matching one from the cost.
+When any player researches a technology, you may gain a **resource** matching one from the cost.
 
 *Warlord*
 
 During setup, place a level one **colony** and a level two **fleet**.
-Once per turn, when you **move** a **fleet**, you may gain **resources** matching the tiles through which you **move**. You do not gain **resources** if you fail an attack and must retreat. You must be able to afford the **move** before gaining the **resources**. You may only gain a **resource** once per tile per **move** action.
+Once per turn, when you **move** a **fleet**, you may gain **resources** matching the tiles of which you enter. You must be able to afford the **move** before gaining the **resources**. You may only gain a **resource** once per tile per **move** action.
 
                     WARLORD MOVE PICTURE- w/ resources example
 
@@ -76,7 +74,7 @@ Once per turn, when you **move** a **fleet**, you may gain **resources** matchin
 
 Phase 1: Bidding
 
-At the beginning of each turn, players will first bid via a Vickrey auction to explore space.  Draw a tile from the bag.  
+At the beginning of each turn, players will bid via a Vickrey auction to explore space.  Draw and reveal a tile from the bag.  
 Each player secretly decides how many resources to bid, and holds that number of colonies in their hand.  All players reveal their bids simultaneously.  If there is a tie for highest bid, those players roll a die to determine the winner.  The winner pays the second highest bid.  (Note, if two players tie for the highest bid, the "second highest" bid is the same.  It is the second highest bid, not second highest price). 
 If you win the bid, pay the bank.  If another player wins the bid, they pay you. 
           
@@ -84,14 +82,14 @@ If you win the bid, pay the bank.  If another player wins the bid, they pay you.
 
 Phase 2: Exploration
 
-Whoever won the bid chooses where to place the tile on the board.  Initial exploration must be done in the inner tiles, as indicated by the blue background.  Once all but one of the inner tiles have been explored, you may place a tile in any open space.
+Whoever won the bid chooses where to place the tile on the board.  Initial exploration must be done in the inner tiles, as indicated by the blue background.  Once all but three of the inner tiles have been explored, you may place a tile in any open space.
 
 When you explore a tile, you also have the option to destroy the tile by flipping it face-down before placing it.  You may collect any resource from the bank.  A destroyed tile is impassable to any player.
 
 
 Phase 3:  Actions
 
-Each turn, you may take one base action, one research action, and one additional action of your choice.  Finalize all effects from an action before beginning your next. Some technologies cause slight changes in the base actions.
+Each turn, you may take one base action, one research action, and one additional action of your choice (Generalist- see Roles).  Finalize all effects from an action before beginning your next. Some technologies cause slight changes in the base actions.
 
 **_Base Actions_**
 
