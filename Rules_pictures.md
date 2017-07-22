@@ -11,23 +11,23 @@
 * 3 Pens
 * 38 Tiles
 * [Resource](#resources) Cards
-* Terraform Markers
+* Terraform Symbols
 
               COMPONENTS PICTURE- colonies, fleets, resources, etc.  Or include w/ individual description below
 
 #### *Resources*
 
-There are three types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. **Resources** are used to **build colonies**, **fleets**, and research technology. At any point in the game, you may spend 4 of one type of **resource** in place of another **resource**.  
+There are three types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of one type of resource in place of another resource.  
 
 
 #### *Colonies* 
 
-**Colonies** built on resource tiles produce **resource** cards. **Colonies** built on military tiles allow for **building** and **upgrading** of **fleets**.
+Colonies built on resource tiles produce resource cards. Colonies built on military tiles allow for building and upgrading of fleets.
 
 
 #### *Fleets*
 
-**Fleets** provide defense and the option to attack an opponent’s tiles, as well as letting you explore.
+Fleets provide defense and the option to attack an opponent’s tiles, as well as letting you explore.
  
 ## Setup
 Each player chooses one role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or tech, as indicated on the role card.
