@@ -4,7 +4,7 @@
  
 ## Components 
 * 1 Game Board
-* 12 Role-based Starting Pieces (2 per role)
+* 12 Role-based Starting Tiles (2 per role)
 * 6 Role Cards
 * 45 [Colonies](#colonies) (15 of each color)
 * 45 [Fleets](#fleets) (15 of each color) 
