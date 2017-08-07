@@ -103,19 +103,19 @@ If you place a destroyed tile, you may collect any resource from the bank.  A de
 
 Phase 3:  Actions
 
-Each turn, you may take one base action, one research action, and one additional action of your choice (Generalist- see Roles).  Finalize all effects from an action before beginning your next. Some technologies cause slight changes in the base actions.
+The bulk of your turn will be spent in this phase.  Each turn, you may take 1 base action, 1 research action, and 1 additional action of your choice (Generalist- see Roles).  Finalize all effects from an action before taking your next action. Some technologies cause slight changes in the base actions.
 
 **_Base Actions_**
 
-**_Build Colony/Colonize_** - You may **build** a level 1 **colony** on a tile adjacent to another of your **colonies**, or on a tile occupied by your **fleet**.  Cost:  1🍐, 1💎              
+**_Build Colony/Colonize_** - You may build a level 1 colony on a tile adjacent to another of your colonies, or on a tile occupied by your fleet.  Cost:  1🍐, 1💎              
 
-**_Upgrade Colony_** - You may **upgrade** one of your **colonies** by one level, up to level 3. Cost: 1🍐, 1💎
+**_Upgrade Colony_** - You may upgrade one of your colonies by 1 level, up to level 3. Cost: 1🍐, 1💎
 
-**_Harvest_** - You collect **resources** from every resource tile on which you have a **colony** (one card per level).  You may choose which **resources** your hybrid **colonies** produce.
+**_Harvest_** - You collect resources from every resource tile on which you have a colony (1 card per level).  You may choose which resources your hybrid colonies produce.
 **HARVEST PICTURE- hybrid example**
-**_Build/Upgrade Fleet_** - On your military **colony**, you may **build** a **fleet** up to the level of the **colony**, or **upgrade** an existing **fleet** by one level.
+**_Build/Upgrade Fleet_** - On your military colony, you may build a fleet up to the level of the colony, or upgrade an existing fleet by 1 level.
 
-**_Move Fleet_** - You may **move** 1 **fleet** as many explored tiles as you can afford, up to 8 tiles.
+**_Move Fleet_** - You may move 1 fleet as many explored tiles as you can afford, up to 8 tiles.
 
 Movement Cost: 
 
