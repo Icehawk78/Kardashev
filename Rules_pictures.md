@@ -4,7 +4,7 @@
  
 ## Components 
 * 1 Game Board
-* 12 Role-based Starting Pieces (2 per role)
+* 12 Role-based Starting Tiles (2 per role)
 * 6 Role Cards
 * 45 [Colonies](#colonies) (15 of each color)
 * 45 [Fleets](#fleets) (15 of each color) 
@@ -17,7 +17,17 @@
 
 #### *Resources*
 
-There are three types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of one type of resource in place of another resource.  
+There are 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of a single type of resource in place of another resource.
+
+
+#### *Tiles*
+
+*Planet Tiles*
+Planets with resource symbols are able to produce resources.  Some produce a single type of resource.  Planets with the military symbol allow you to build and upgrade fleets.  Some planets have multiple symbols, and can provide all benefits.
+*Destroyed Tiles*
+The backs of the planet tiles represent destroyed planets.
+*Empty Tiles*
+There are tiles with no planets or symbols.  They represents explored, but empty, space.
 
 
 #### *Colonies* 
