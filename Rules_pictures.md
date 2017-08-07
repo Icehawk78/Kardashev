@@ -71,7 +71,7 @@ When any player builds/upgrades a fleet, you may gain a resource of your choice.
 *Pioneer*
 
 During setup, place two level one colonies and a level one fleet.
-When you build/upgrade a colony on a resource tile, you may gain a **resource** matching that of the tile. If you **build/upgrade** on a hybrid tile, you may choose which **resource** you gain. You must be able to afford the **colony** before gaining this **resource**.
+When you build/upgrade a colony on a resource tile, you may gain a resource matching that of the tile. If you build/upgrade on a hybrid tile, you may choose which resource you gain. You must be able to afford the colony before gaining this resource.
 
 *Scientist*
 
@@ -137,16 +137,16 @@ You may move your fleet into an unexplored space and draw 1 tile to immediately 
 On your move action, if your fleet enters a tile occupied by another player’s fleet and/or colony, you attack.
                               
                               ATTACK PICTURE- win & lose example
-To win an attack, you must have a higher offensive strength than their defensive strength (a tie goes to the defender). **Fleet** and **colony** strength is equal to their level, plus any modifiers gained from technology.
+To win an attack, you must have a higher offensive strength than their defensive strength (a tie goes to the defender). Fleet and colon* strength is equal to their level, plus any modifiers gained from technology.
 
 **_Supporting:_** 
-You may spend 1⚛ to support per adjacent active **fleet**.  Supports add their level to your strength.  You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting **fleets** do not move tiles. 
+You may spend 1⚛ to support per adjacent active fleet.  Supports add their level to your strength.  You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move tiles. 
 
-On a successful attack, you take over by replacing their **colonies** with yours.  Their lost **colonies** go back into their supply.
+On a successful attack, you take over by replacing their colonies with yours.  Their lost colonies go back into their supply.
 
-If a defensive **fleet** was on the attacked tile, it is destroyed and returned to their supply. 
+If a defensive fleet was on the attacked tile, it is destroyed and returned to their supply. 
 
-On a failed attack, your offensive **fleet** retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an empty tile through Warp Drive Technology or by passing through a tile that is occupied by another one of your **fleets**), the attacking **fleet** is destroyed.
+On a failed attack, your offensive fleet retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an empty tile through Warp Drive Technology or by passing through a tile that is occupied by another one of your fleets), the attacking fleet is destroyed.
 
       SUPPORT PICTURE- offense & defense
 
