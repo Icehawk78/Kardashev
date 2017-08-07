@@ -42,7 +42,7 @@ Fleets represent your military force.  They move throughout space to attack your
 
 #### *Technologies*
 
-Technologies represent advancements available to you.  Higher level technologies typically have prerequisites of the lower level technologies, as indicated by the arrows on your role card.  Some technologies are exclusive- meaning you cannot concurrently use both.
+Technologies represent advancements available to you, some of which are exclusive to you.  Higher level technologies typically have prerequisites of the lower level technologies.  Some technologies are mutually exclusive- meaning you cannot concurrently use both.
 
 ## Setup
 Each player chooses a role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.
@@ -139,11 +139,9 @@ On your move action, if your fleet enters a tile occupied by another player’s 
                               ATTACK PICTURE- win & lose example
 To win an attack, you must have a higher offensive strength than your opponent's defensive strength (a tie goes to the defender). Fleet and colony strength is equal to their level, plus any modifiers gained from technology.
 
-On a successful attack, you take over by replacing your opponent's colonies with yours.  Their lost colonies go back into their supply.
+On a successful attack, you take over by replacing your opponent's colonies with yours.  Their lost colonies go back into their supply.  If a defensive fleet was on the attacked tile, it is destroyed and returned to their supply. 
 
-If a defensive fleet was on the attacked tile, it is destroyed and returned to their supply. 
-
-On a failed attack, your offensive fleet retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an empty tile through Warp Drive Technology or by passing through a tile that is occupied by another one of your fleets), the attacking fleet is destroyed.
+On a failed attack, your offensive fleet retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an empty tile using technology or by passing through a tile that is occupied by another one of your fleets), the attacking fleet is destroyed.
 
 **_Supporting:_** 
 You may spend 1⚛ to support per adjacent active fleet.  Supporting fleets add their level to your strength.  You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move. 
@@ -152,13 +150,14 @@ You may spend 1⚛ to support per adjacent active fleet.  Supporting fleets add 
 
 **_Research Actions_**
 
-*Research* - You may research one technology from the tech tree, and indicate this with a marker.  Effects from technologies researched may be used immediately. 
-
-Technologies are a form of advancement in addition to providing points (see Scoring).
-
-Higher level technologies typically have prerequisites of the lower level technologies, as indicated by the arrows on the tech tree.  Technologies in connected boxes are exclusive- meaning you cannot concurrently use both.  If you decide you want to research the other technology in the box, you must remove your marker from the first technology and move it to the new one.
+*Research* - You may research a technology by paying the associated cost.  Mark your technologies on your role card.  Effects from technologies researched may be used immediately. 
 
 The costs for each technology is indicated by the resource symbols at the beginning of each line, and cost one resource of each type per level.  For example, Fuel Efficiency costs 1 💎 and 1 ⚛; Boosters costs 2 💎 and 2 ⚛.  Technology costs marked with an asterisk have unique costs.
+
+Some technologies also require you to have researched a prerequisite technology. This is indicated by arrows leading from the earlier technology to the newer one on your role card.
+
+If you choose to research a technology that is mutually exclusive with one you have already researched, you lose the benefits from the older technology and must remove it from your role card. 
+
 
 *Use Tech* - You may use any of the technologies signified with a 🔬.
 
