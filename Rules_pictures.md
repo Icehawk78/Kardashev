@@ -159,24 +159,20 @@ Some technologies also require you to have researched a prerequisite technology.
 If you choose to research a technology that is mutually exclusive with one you have already researched, you lose the benefits from the older technology and must remove it from your role card. 
 
 
-*Use Tech* - You may use any of the technologies signified with a 🔬.
+*Use Technology* - You may use any of the technologies signified with a 🔬.
 
-*Compile* – You may collect one **resource** of your choice from the bank.
+*Compile* – You may collect 1 resource of your choice from the bank.
  
 ## Game End
 
 The game end can be triggered one of two ways:
-When one player has two or fewer **colonies** remaining, complete the current round, and play one final round.
-When the final tile has been explored, complete the current round, and play 2 additional rounds.
+When any player has 2 or fewer colonies remaining, complete the current round, and play one final round.
+When the final space has been explored, complete the current round, and play 2 additional rounds.
 
 
 **Scoring**
 
-**_Colonies:_** Level 1 **colonies** are worth 3 points; level 2 are worth 5 points; level 3 are worth 6 points.
-
-**_Fleets:_** Worth points equal to its level.
-
-**_Technology:_**  Worth points equal to its level on the tech tree.  
+        insert table shits
 
 The player with the highest combined score wins.  In the case of a tie, fight to the death to determine the actual winner (lasers are mandatory).
 
