@@ -38,7 +38,11 @@ Colonies may only be built on planet tiles.   Colonies represent planets that ar
 #### *Fleets*
 
 Fleets represent your military force.  They move throughout space to attack your opponents and to explore.  They are also used defensively.
- 
+
+#### *Technologies*
+
+Technologies represent advancements available to you.  Higher level technologies typically have prerequisites of the lower level technologies, as indicated by the arrows on your role card.  Some technologies are exclusive- meaning you cannot concurrently use both.
+
 ## Setup
 Each player chooses a role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.
 
