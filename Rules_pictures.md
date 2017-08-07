@@ -89,8 +89,13 @@ Once per turn, when you **move** a **fleet**, you may gain **resources** matchin
 
 Phase 1: Bidding
 
-In this phase players bid their resources to claim exploration rights.  At the beginning of your turn, draw and reveal a tile from the bag.  
-Each player secretly decides how many resources they are willing to pay, and holds that many colonies in their hand.  All players reveal their bids simultaneously.  The player with the highest bid wins and pays you the second highest bid (known as a Vickrey auction).  If you win the bid, pay the bank.   If there is a tie for highest bid, those players roll a die to determine the winner.  In this case, the "second highest" bid is the same.  It is the second highest bid, not second highest price. 
+In this phase players bid their resources to claim exploration rights.  
+
+At the beginning of your turn, draw and reveal a tile from the bag.  
+
+Each player secretly decides how many resources they are willing to pay, and holds that many colonies in their hand.  All players reveal their bids simultaneously.  The player with the highest bid wins and pays you the second highest bid (known as a Vickrey auction).  If you win the bid, pay the bank.   
+
+If there is a tie for highest bid, those players roll a die to determine the winner.  In this case, the "second highest" bid is the same.  It is the second highest bid, not second highest price. 
           
           BIDDING EXAMPLE - with tied bid
 
