@@ -25,7 +25,7 @@ Resource cards represent 3 types of resources – 🍐 Food, 💎 Matter, and �
 
 ##### Planet Tiles
 Planets with resource symbols are able to produce resources.  Planets with the military symbol allow you to build and upgrade fleets.  Some planets have multiple symbols, and can provide all benefits.
-##### Destroyed Tiles
+##### Destroyed Planet Tiles
 The backs of the planet tiles represent destroyed planets.
 ##### Empty Tiles
 Tiles without planets or symbols represent explored, but empty, space.
@@ -98,7 +98,7 @@ Phase 2: Exploration
 
 In this phase, the winner of the exploration rights chooses where and how to explore space.  They must place the tile on an unexplored space.  Exploration must be done in the blue zone until there are 3 or fewer blue spaces left unexplored.
 
-If you place a destroyed tile, you may collect any resource from the bank.  A destroyed tile is impassable to any player.
+If you place a destroyed planet tile, you may collect any resource from the bank.  A destroyed planet tile is impassable to any player.
 
 
 Phase 3:  Actions
@@ -129,12 +129,12 @@ Movement Cost:
 |2|1 ⚛|1 tile|
 |3|2 ⚛|1 tile|
 
-You may pass through tiles occupied by your **fleets**, but cannot end the action there.  You may not pass through a tile occupied by another player’s **fleet** or **colony** tile (see attacking).  Your **fleets** may occupy the same tile as your **colony**.
+You may pass through tiles occupied by your fleets, but cannot end the action there.  You may not pass through a tile occupied by another player’s fleet or colony tile (see attacking).  Your fleets may occupy the same tile as your colony.  You may not pass through destroyed planet tiles.
 
-You may **move** your **fleet** into an unexplored space and draw one tile to immediately explore it without bidding.  (Note: The outer tiles, indicated with the white background, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you choose to destroy this tile, your **fleet** is immediately destroyed.
+You may move your fleet into an unexplored space and draw one tile to immediately explore it without bidding.  (Note: The outer tiles, indicated with the white background, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you choose to destroy this tile, your fleet is immediately destroyed.
  
 **_Attacking_**
-On your **move** action, if your **fleet** enters a tile occupied by another player’s **fleet** and/or **colony**, you attack.
+On your move action, if your fleet enters a tile occupied by another player’s fleet and/or colony, you attack.
                               
                               ATTACK PICTURE- win & lose example
 To win an attack, you must have a higher offensive strength than their defensive strength (a tie goes to the defender). **Fleet** and **colony** strength is equal to their level, plus any modifiers gained from technology.
