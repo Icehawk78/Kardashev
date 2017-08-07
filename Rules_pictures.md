@@ -15,9 +15,9 @@
 
               COMPONENTS PICTURE- colonies, fleets, resources, etc.  Or include w/ individual description below
 
-#### *Resources*
+#### *Resource Cards*
 
-There are 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. These are represented by cards.  Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of a single type of resource in place of another resource.
+Resource cards represent 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy.  Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of a single type of resource in place of another resource.
 
 
 #### *Tiles*
