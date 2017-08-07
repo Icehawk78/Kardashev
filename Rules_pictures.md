@@ -22,11 +22,11 @@ There are 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resou
 
 #### *Tiles*
 
-*Planet Tiles*
+##### Planet Tiles
 Planets with resource symbols are able to produce resources.  Some produce a single type of resource.  Planets with the military symbol allow you to build and upgrade fleets.  Some planets have multiple symbols, and can provide all benefits.
-*Destroyed Tiles*
+##### Destroyed Tiles
 The backs of the planet tiles represent destroyed planets.
-*Empty Tiles*
+##### Empty Tiles
 There are tiles with no planets or symbols.  They represents explored, but empty, space.
 
 
