@@ -40,9 +40,9 @@ Colonies may only be built on planet tiles.   Colonies represent planets that ar
 Fleets represent your military force.  They move throughout space to attack your opponents and to explore.  They are also used defensively.
  
 ## Setup
-Each player chooses one role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or tech, as indicated on the role card.
+Each player chooses a role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.
 
-Players set up their starting pieces in the purple starting zones. Draw one of each **resource**. Your **resources**  are kept in front of you as public information.
+Players set up their starting pieces in the purple starting zones. Draw 1 of each **resource**. Your **resources**  are kept in front of you as public information.
 
                     SETUP PICTURE- starting tile layout w/ role card & starting pieces)
 
