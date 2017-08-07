@@ -131,7 +131,7 @@ Movement Cost:
 
 You may pass through tiles occupied by your fleets, but cannot end the action there.  You may not pass through a tile occupied by another player’s fleet or colony tile (see attacking).  Your fleets may occupy the same tile as your colony.  You may not pass through destroyed planet tiles.
 
-You may move your fleet into an unexplored space and draw one tile to immediately explore it without bidding.  (Note: The outer tiles, indicated with the white background, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you choose to destroy this tile, your fleet is immediately destroyed.
+You may move your fleet into an unexplored space and draw 1 tile to immediately explore it without bidding.  (Note: The outer tiles, indicated with the white background, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you choose to destroy this tile, your fleet is immediately destroyed.
  
 **_Attacking_**
 On your move action, if your fleet enters a tile occupied by another player’s fleet and/or colony, you attack.
