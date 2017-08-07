@@ -131,23 +131,22 @@ Movement Cost:
 
 You may not pass through destroyed planet tiles.  You may pass through tiles occupied by your fleets, but cannot end the action there.  You may not pass through a tile occupied by another player’s fleet or colony (see attacking).  Your fleets may occupy the same tile as your colony.  
 
-You may move your fleet into an unexplored space and draw 1 tile to immediately explore it without bidding.  (Note: The outer tiles, indicated with the white background, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you place a destroyed planet tile, your fleet is immediately destroyed.
+You may move your fleet into an unexplored space and draw 1 tile to immediately explore it without bidding.  (Note: The outer spaces, indicated by the white zone, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you place a destroyed planet tile, your fleet is immediately destroyed.
  
 **_Attacking_**
 On your move action, if your fleet enters a tile occupied by another player’s fleet and/or colony, you attack.
                               
                               ATTACK PICTURE- win & lose example
-To win an attack, you must have a higher offensive strength than their defensive strength (a tie goes to the defender). Fleet and colon* strength is equal to their level, plus any modifiers gained from technology.
+To win an attack, you must have a higher offensive strength than your opponent's defensive strength (a tie goes to the defender). Fleet and colony strength is equal to their level, plus any modifiers gained from technology.
 
-**_Supporting:_** 
-You may spend 1⚛ to support per adjacent active fleet.  Supports add their level to your strength.  You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move tiles. 
-
-On a successful attack, you take over by replacing their colonies with yours.  Their lost colonies go back into their supply.
+On a successful attack, you take over by replacing your opponent's colonies with yours.  Their lost colonies go back into their supply.
 
 If a defensive fleet was on the attacked tile, it is destroyed and returned to their supply. 
 
 On a failed attack, your offensive fleet retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an empty tile through Warp Drive Technology or by passing through a tile that is occupied by another one of your fleets), the attacking fleet is destroyed.
 
+**_Supporting:_** 
+You may spend 1⚛ to support per adjacent active fleet.  Supporting fleets add their level to your strength.  You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move. 
       SUPPORT PICTURE- offense & defense
 
 **_Research Actions_**
