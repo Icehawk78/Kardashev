@@ -111,8 +111,9 @@ The bulk of your turn will be spent in this phase.  Each turn, you may take 1 ba
 
 **_Upgrade Colony_** - You may upgrade one of your colonies by 1 level, up to level 3. Cost: 1🍐, 1💎
 
-**_Harvest_** - You collect resources from every resource tile on which you have a colony (1 card per level).  You may choose which resources your hybrid colonies produce.
+**_Harvest_** - You collect resources from every colonized planet tile with a resource symbol (1 card per colony level).  If there are multiple resource symbols, you may choose which resources to produce.
 **HARVEST PICTURE- hybrid example**
+
 **_Build/Upgrade Fleet_** - On your military colony, you may build a fleet up to the level of the colony, or upgrade an existing fleet by 1 level.
 
 **_Move Fleet_** - You may move 1 fleet as many explored tiles as you can afford, up to 8 tiles.
