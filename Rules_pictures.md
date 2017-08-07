@@ -42,7 +42,7 @@ Fleets represent your military force.  They move throughout space to attack your
 ## Setup
 Each player chooses a role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.
 
-Players set up their starting pieces in the purple starting zones. Draw 1 of each **resource**. Your **resources**  are kept in front of you as public information.
+Players set up their starting pieces in the purple starting zones. Draw 1 of each resource. Your resources are kept in front of you as public information.
 
                     SETUP PICTURE- starting tile layout w/ role card & starting pieces)
 
@@ -50,23 +50,23 @@ Players set up their starting pieces in the purple starting zones. Draw 1 of eac
 
 *Collector*
 
-During setup, place a level one colony and a level one fleet.  You also draw 2 additional **resource** cards of your choice.
-When you **harvest**, you may gain one bonus **resource** of your choice, matching one you are able to produce.
+During setup, place a level one colony and a level one fleet.  You also draw 2 additional resource cards of your choice.
+When you harvest, you may gain one bonus resource of your choice, matching one you are able to produce.
 
 *Generalist*
 
-During setup, place a level one **colony** and a level one **fleet**.
+During setup, place a level one colony and a level one fleet.
 Instead of 1 base, 1 research, and 1 action of your choice, you may take your 3 actions in any combination you choose.
 
 *Imperialist*
 
-During setup, place a level one **colony** and two level one **fleets**.
-When any player **builds/upgrades** a **fleet**, you may gain a **resource** of your choice. If this is on your turn, you must be able to afford the **fleet** before gaining this **resource**.
+During setup, place a level one colony and two level one fleets.
+When any player builds/upgrades a fleet, you may gain a resource of your choice. If this is on your turn, you must be able to afford the fleet before gaining this resource.
 
 *Pioneer*
 
-During setup, place two level one **colonies** and a level one **fleet**.
-When you **build/upgrade** a **colony** on a resource tile, you may gain a **resource** matching that of the tile. If you **build/upgrade** on a hybrid tile, you may choose which **resource** you gain. You must be able to afford the **colony** before gaining this **resource**.
+During setup, place two level one colonies and a level one fleet.
+When you build/upgrade a colony on a resource tile, you may gain a **resource** matching that of the tile. If you **build/upgrade** on a hybrid tile, you may choose which **resource** you gain. You must be able to afford the **colony** before gaining this **resource**.
 
 *Scientist*
 
