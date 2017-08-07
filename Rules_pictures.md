@@ -96,9 +96,9 @@ Each player secretly decides how many resources they are willing to pay, and hol
 
 Phase 2: Exploration
 
-Whoever won the bid chooses where to place the tile on the board.  Initial exploration must be done in the inner tiles, as indicated by the blue background.  Once all but three of the inner tiles have been explored, you may place a tile in any open space.
+In this phase, the winner of the exploration rights chooses where and how to explore space.  They must place the tile on an unexplored space.  Exploration must be done in the blue zone until there are 3 or fewer blue spaces left unexplored.
 
-When you explore a tile, you also have the option to destroy the tile by flipping it face-down before placing it.  You may collect any resource from the bank.  A destroyed tile is impassable to any player.
+If you place a destroyed tile, you may collect any resource from the bank.  A destroyed tile is impassable to any player.
 
 
 Phase 3:  Actions
