@@ -115,7 +115,9 @@ The bulk of your turn will be spent in this phase.  Each turn, you may take 1 ba
         
         **HARVEST PICTURE- hybrid example**
 
-**_Build/Upgrade Fleet_** - On your military colony, you may build a fleet up to the level of the colony, or upgrade an existing fleet by 1 level.
+**_Build Fleet_** - You may build a fleet on a colonized planet tile with a miltiary symbol, up to the level of the colony.
+
+**_Upgrade Fleet_** - You may upgrade an existing fleet by 1 level, providing it is on a colonized planet tile with a military symbol.
 
 **_Move Fleet_** - You may move 1 fleet as many explored tiles as you can afford, up to 8 tiles.
 
