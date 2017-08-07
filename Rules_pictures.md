@@ -1,6 +1,7 @@
 # Kardashev Game Rules
 
 #### Asteri Games
+Kardashev scale means this.  Goal is to do this.  Woot.  Yay.
  
 ## Components 
 * 1 Game Board
