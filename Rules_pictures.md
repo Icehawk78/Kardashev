@@ -17,27 +17,27 @@
 
 #### *Resources*
 
-There are 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of a single type of resource in place of another resource.
+There are 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. These are represented by cards.  Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of a single type of resource in place of another resource.
 
 
 #### *Tiles*
 
 ##### Planet Tiles
-Planets with resource symbols are able to produce resources.  Some produce a single type of resource.  Planets with the military symbol allow you to build and upgrade fleets.  Some planets have multiple symbols, and can provide all benefits.
+Planets with resource symbols are able to produce resources.  Planets with the military symbol allow you to build and upgrade fleets.  Some planets have multiple symbols, and can provide all benefits.
 ##### Destroyed Tiles
 The backs of the planet tiles represent destroyed planets.
 ##### Empty Tiles
-There are tiles with no planets or symbols.  They represents explored, but empty, space.
+Tiles without planets or symbols represent explored, but empty, space.
 
 
 #### *Colonies* 
 
-Colonies built on resource tiles produce resource cards. Colonies built on military tiles allow for building and upgrading of fleets.
+Colonies may only be built on planet tiles.   Colonies represent planets that are part of your civilization.
 
 
 #### *Fleets*
 
-Fleets provide defense and the option to attack an opponent’s tiles, as well as letting you explore.
+Fleets represent your military force.  They move throughout space to attack your opponents and to explore.  They are also used defensively.
  
 ## Setup
 Each player chooses one role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or tech, as indicated on the role card.
