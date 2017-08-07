@@ -96,9 +96,9 @@ Each player secretly decides how many resources they are willing to pay, and hol
 
 Phase 2: Exploration
 
-In this phase, the winner of the exploration rights chooses where and how to explore space.  They must place the tile on an unexplored space.  Exploration must be done in the blue zone until there are 3 or fewer blue spaces left unexplored.
+In this phase, the winner of the exploration rights chooses where and how to explore space.  The tile must be placed on an unexplored space.  Exploration must be done in the blue zone until there are 3 or fewer blue spaces left unexplored.
 
-If you place a destroyed planet tile, you may collect any resource from the bank.  A destroyed planet tile is impassable to any player.
+The player may choose to place the tile with either side face up.  If the player places a destroyed planet tile, they may collect any resource from the bank.
 
 
 Phase 3:  Actions
@@ -119,7 +119,7 @@ The bulk of your turn will be spent in this phase.  Each turn, you may take 1 ba
 
 **_Upgrade Fleet_** - You may upgrade an existing fleet by 1 level, providing it is on a colonized planet tile with a military symbol.
 
-**_Move Fleet_** - You may move 1 fleet as many explored tiles as you can afford, up to 8 tiles.
+**_Move Fleet_** - You may move 1 fleet as many explored tiles as you can afford, up to 8 tiles. 
 
 Movement Cost: 
 
@@ -129,9 +129,9 @@ Movement Cost:
 |2|1 ⚛|1 tile|
 |3|2 ⚛|1 tile|
 
-You may pass through tiles occupied by your fleets, but cannot end the action there.  You may not pass through a tile occupied by another player’s fleet or colony tile (see attacking).  Your fleets may occupy the same tile as your colony.  You may not pass through destroyed planet tiles.
+You may not pass through destroyed planet tiles.  You may pass through tiles occupied by your fleets, but cannot end the action there.  You may not pass through a tile occupied by another player’s fleet or colony (see attacking).  Your fleets may occupy the same tile as your colony.  
 
-You may move your fleet into an unexplored space and draw 1 tile to immediately explore it without bidding.  (Note: The outer tiles, indicated with the white background, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you choose to destroy this tile, your fleet is immediately destroyed.
+You may move your fleet into an unexplored space and draw 1 tile to immediately explore it without bidding.  (Note: The outer tiles, indicated with the white background, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you place a destroyed planet tile, your fleet is immediately destroyed.
  
 **_Attacking_**
 On your move action, if your fleet enters a tile occupied by another player’s fleet and/or colony, you attack.
