@@ -112,7 +112,7 @@ The bulk of your turn will be spent in this phase.  Each turn, you may take 1 ba
 **_Upgrade Colony_** - You may upgrade one of your colonies by 1 level, up to level 3. Cost: 1🍐, 1💎
 
 **_Harvest_** - You collect resources from every colonized planet tile with a resource symbol (1 card per colony level).  If there are multiple resource symbols, you may choose which resources to produce.
-**HARVEST PICTURE- hybrid example**
+    **HARVEST PICTURE- hybrid example**
 
 **_Build/Upgrade Fleet_** - On your military colony, you may build a fleet up to the level of the colony, or upgrade an existing fleet by 1 level.
 
