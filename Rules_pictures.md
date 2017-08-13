@@ -1,9 +1,9 @@
 # Kardashev Game Rules
 
 #### Asteri Games
-Kardashev scale means this.  Goal is to do this.  Woot.  Yay.
+Kardashev is a space-themed strategy game where you compete to build the most advanced space civilization by expanding your territory, researching new technology, and conquering your foes.
  
-## Components 
+## Components  
 * 1 Game Board
 * 12 Role-based Starting Tiles (2 per role)
 * 6 Role Cards
