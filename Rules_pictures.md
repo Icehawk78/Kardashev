@@ -11,7 +11,7 @@ Kardashev is a space-themed strategy game where you compete to build the most ad
 * 45 [Fleets](#fleets) (15 of each color) 
 * 3 Pens
 * 38 Tiles
-* [Resource](#resources) Cards
+* Resource Cards
 * Terraform Symbols
 
               COMPONENTS PICTURE- colonies, fleets, resources, etc.  Or include w/ individual description below
