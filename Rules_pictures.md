@@ -25,11 +25,18 @@ Resource cards represent 3 types of resources – 🍐 Food, 💎 Matter, and �
 
 ##### Planet Tiles
 Planets with resource symbols are able to produce resources.  Planets with the military symbol allow you to build and upgrade fleets.  Some planets have multiple symbols, and can provide all benefits.
+
+<img src="/images/Tile_Types.png" width="750px"/>
+
 ##### Destroyed Planet Tiles
 The backs of the planet tiles represent destroyed planets.
+
+<img src="/images/Back.png" width="250px"/>
+
 ##### Empty Tiles
 Tiles without planets or symbols represent explored, but empty, space.
 
+<img src="/images/Empty_Tile.png" width="250px"/>
 
 #### *Colonies* 
 
