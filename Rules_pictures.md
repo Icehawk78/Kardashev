@@ -121,7 +121,8 @@ The bulk of your turn will be spent in this phase.  Each turn, you may take 1 ba
 
 **_Harvest_** - You collect resources from every colonized planet tile with a resource symbol (1 card per colony level).  If there are multiple resource symbols, you may choose which resources to produce.
         
-        **HARVEST PICTURE- hybrid example**
+<img src="/images/Harvest_Ex1.png" width="600px"/>
+<img src="/images/Harvest_Ex2.png" />
 
 **_Build Fleet_** - You may build a fleet on a colonized planet tile with a miltiary symbol, up to the level of the colony.
 
