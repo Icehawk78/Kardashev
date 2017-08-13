@@ -94,25 +94,26 @@ Once per turn, when you **move** a **fleet**, you may gain **resources** matchin
 
 ## Phases
 
-Phase 1: Bidding
+### Phase 1: Bidding
 
-In this phase players bid their resources to claim exploration rights.  At the beginning of your turn, draw and reveal a tile from the bag.  
+In this phase players bid their resources to claim exploration rights.  At the beginning of your turn, draw and reveal a tile from the bag.
+
 Each player secretly decides how many resources they are willing to pay, and holds that many colonies in their hand.  All players reveal their bids simultaneously.  The player with the highest bid wins and pays you the second highest bid (known as a Vickrey auction).  If you win the bid, pay the bank.   If there is a tie for highest bid, those players roll a die to determine the winner.  In this case, the "second highest" bid is the same.  It is the second highest bid, not second highest price. 
           
           BIDDING EXAMPLE - with tied bid.  Not a picture.  Make it an example thing.
 
-Phase 2: Exploration
+### Phase 2: Exploration
 
 In this phase, the winner of the exploration rights chooses where and how to explore space.  The tile must be placed on an unexplored space.  Exploration must be done in the blue zone until there are 3 or fewer blue spaces left unexplored.
 
 The player may choose to place the tile with either side face up.  If the player places a destroyed planet tile, they may collect any resource from the bank.
 
 
-Phase 3:  Actions
+### Phase 3:  Actions
 
 The bulk of your turn will be spent in this phase.  Each turn, you may take 1 base action, 1 research action, and 1 additional action of your choice (Generalist- see Roles).  Finalize all effects from an action before taking your next action. Some technologies cause slight changes in the base actions.
 
-**_Base Actions_**
+#### Base Actions
 
 **_Build Colony/Colonize_** - You may build a level 1 colony on a tile adjacent to another of your colonies, or on a tile occupied by your fleet.  Cost:  1🍐, 1💎              
 
@@ -140,7 +141,7 @@ You may not pass through destroyed planet tiles.  You may pass through tiles occ
 
 You may move your fleet into an unexplored space and draw 1 tile to immediately explore it without bidding.  (Note: The outer spaces, indicated by the white zone, may be explored this way at any time. They are not restricted as during the bidding/exploration phases).  If you place a destroyed planet tile, your fleet is immediately destroyed.
  
-**_Attacking_**
+**_Attacking_** - 
 On your move action, if your fleet enters a tile occupied by another player’s fleet and/or colony, you attack.
                               
                               ATTACK PICTURE- win & lose example
@@ -150,14 +151,14 @@ On a successful attack, you take over by replacing your opponent's colonies with
 
 On a failed attack, your offensive fleet retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an empty tile using technology or by passing through a tile that is occupied by another one of your fleets), the attacking fleet is destroyed.
 
-**_Supporting:_** 
+**_Supporting:_** - 
 You may spend 1⚛ to support per adjacent active fleet.  Supporting fleets add their level to your strength.  You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move. 
       
       SUPPORT PICTURE- offense & defense
 
-**_Research Actions_**
+#### Research Actions
 
-*Research* - You may research a technology by paying the associated cost.  Mark your technologies on your role card.  Effects from technologies researched may be used immediately. 
+**Research** - You may research a technology by paying the associated cost.  Mark your technologies on your role card.  Effects from technologies researched may be used immediately. 
 
 The costs for each technology is indicated by the resource symbols at the beginning of each line, and cost one resource of each type per level.  For example, Fuel Efficiency costs 1 💎 and 1 ⚛; Boosters costs 2 💎 and 2 ⚛.  Technology costs marked with an asterisk have unique costs.
 
@@ -166,9 +167,9 @@ Some technologies also require you to have researched a prerequisite technology.
 If you choose to research a technology that is mutually exclusive with one you have already researched, you lose the benefits from the older technology and must remove it from your role card. 
 
 
-*Use Technology* - You may use any of the technologies signified with a 🔬.
+**Use Technology** - You may use any of the technologies signified with a 🔬.
 
-*Compile* – You may collect 1 resource of your choice from the bank.
+**Compile** – You may collect 1 resource of your choice from the bank.
  
 ## Game End
 
