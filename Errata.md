@@ -1,10 +1,5 @@
 ## Roles 
 
-*Collector*
-
-During setup, place a level one colony and a level one fleet.  You also draw 2 additional resource cards of your choice.
-When you harvest, you may gain one bonus resource of your choice, matching one you are able to produce.
-
 *Generalist*
 
 During setup, place a level one colony and a level one fleet.
@@ -20,14 +15,19 @@ When any player builds/upgrades a fleet, you may gain a resource of your choice.
 During setup, place two level one colonies and a level one fleet.
 When you build/upgrade a colony on a resource tile, you may gain a resource matching that of the tile. If you build/upgrade on a hybrid tile, you may choose which resource you gain. You must be able to afford the colony before gaining this resource.
 
+*Salvager*
+
+During setup, place a level one colony and a level one fleet.  You also draw 2 additional resource cards of your choice.
+When you harvest, you may gain one bonus resource of your choice, matching one you are able to produce.
+
 *Scientist*
 
-During setup, place a level one **colony** and a level one **fleet**.  You also select a level one technology.
-When any player researches a technology, you may gain a **resource** matching one from the cost.
+During setup, place a level one colony and a level one fleet.  You also select a level one technology.
+When any player researches a technology, you may gain a resource matching one from the cost.
 
 *Warlord*
 
-During setup, place a level one **colony** and a level two **fleet**.
-Once per turn, when you **move** a **fleet**, you may gain **resources** matching the tiles of which you enter. You must be able to afford the **move** before gaining the **resources**. You may only gain a **resource** once per tile per **move** action.
+During setup, place a level one colony and a level two fleet.
+Once per turn, when you move a fleet, you may gain resources matching the tiles of which you enter. You must be able to afford the move before gaining the resources. You may only gain a resource once per tile per move action.
 
                     WARLORD MOVE PICTURE- w/ resources example
