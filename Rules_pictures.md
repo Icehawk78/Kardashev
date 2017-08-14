@@ -145,8 +145,9 @@ You may move your fleet into an unexplored space and draw 1 tile to immediately 
 **_Attacking_** - 
 On your move action, if your fleet enters a tile occupied by another player’s fleet and/or colony, you attack.
                               
-                              ATTACK PICTURE- win & lose example
 To win an attack, you must have a higher offensive strength than your opponent's defensive strength (a tie goes to the defender). Fleet and colony strength is equal to their level, plus any modifiers gained from technology.
+
+<img src="/images/Attack_Example.png" width="400px"/>
 
 On a successful attack, you take over by replacing your opponent's colonies with yours.  Their lost colonies go back into their supply.  If a defensive fleet was on the attacked tile, it is destroyed and returned to their supply. 
 
