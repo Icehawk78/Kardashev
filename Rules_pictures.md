@@ -103,7 +103,8 @@ Each player secretly decides how many resources they are willing to pay, and hol
           On Adama's turn, he draws a tile.  
           Han and River each bid 2, and Adama bids 1.  
           Han and River each roll a die to break the tied bid.  
-          Han rolls a 3 and River rolls a 5, so River wins.  She pays Adama 2 resources.
+          Han rolls a 3 and River rolls a 5, so River wins.  
+          She pays Adama 2 resources.
 
 ### Phase 2: Exploration
 
