@@ -67,11 +67,7 @@ In this phase players bid their resources to claim exploration rights.  At the b
 
 Each player secretly decides how many resources they are willing to pay, and holds that many colonies in their hand.  All players reveal their bids simultaneously.  The player with the highest bid wins and pays you the second highest bid (known as a Vickrey auction).  If you win the bid, pay the bank.   If there is a tie for highest bid, those players roll a die to determine the winner.  In this case, the "second highest" bid is the same.  It is the second highest bid, not second highest price. 
           
-          On Adama's turn, he draws a tile.  
-          Han and River each bid 2, and Adama bids 1.  
-          Han and River each roll a die to break the tied bid.  
-          Han rolls a 3 and River rolls a 5, so River wins.  
-          She pays Adama 2 resources.
+    On Adama's turn, he draws a tile.  Han and River each bid 2, and Adama bids 1.  Han and River each roll a die to break the tied     bid.  Han rolls a 3 and River rolls a 5, so River wins. She pays Adama 2 resources.
 
 ### Phase 2: Exploration
 
@@ -95,7 +91,7 @@ The bulk of your turn will be spent in this phase.  Each turn, you may take 1 ba
 <img src="/images/Harvest_Ex1.png" width="600px"/>
 <img src="/images/Harvest_Ex2.png" />
 
-**_Build Fleet_** - You may build a fleet on a colonized planet tile with a miltiary symbol, up to the level of the colony.
+**_Build Fleet_** - You may build a fleet on a colonized planet tile with a military symbol, up to the level of the colony.
 
 **_Upgrade Fleet_** - You may upgrade an existing fleet by 1 level, providing it is on a colonized planet tile with a military symbol.
 
