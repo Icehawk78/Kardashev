@@ -124,7 +124,7 @@ To win an attack, you must have a higher offensive strength than your opponent's
 
 On a successful attack, you take over by replacing your opponent's colonies with yours.  Their lost colonies go back into their supply.  If a defensive fleet was on the attacked tile, it is destroyed and returned to their supply. 
 
-On a failed attack, your offensive fleet retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an empty tile using technology or by passing through a tile that is occupied by another one of your fleets), the attacking fleet is destroyed.
+On a failed attack, your offensive fleet retreats, and is pushed back into the adjacent tile from where it came.  If it cannot retreat into the adjacent tile (i.e., you moved it through an unexplored space using technology or by passing through a tile that is occupied by another one of your fleets), the attacking fleet is destroyed.
 
 **_Supporting:_** - 
 You may spend 1⚛ to support per adjacent fleet.  Supporting fleets add their level to your strength.  You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move. 
