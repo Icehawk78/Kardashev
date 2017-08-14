@@ -48,20 +48,20 @@ Once per turn, when you move a fleet, you may gain resources matching the tiles 
 
 **Magnetic Rake** *You have developed machinery capable of harvesting resources autonomously.*  You may now choose to harvest as your research action.  All other harvest rules apply.
 
-   **Tractor Beam** *FLAVOR TEXT!!!*  Whenever you place a planet tile with a resource symbol, you may collect a matching resource.  This may be during an action on your turn or the Exploration Phase on anyone's turn.
+**Tractor Beam** ***FLAVOR TEXT!!!***  Whenever you place a planet tile with a resource symbol, you may collect a matching resource.  This may be during an action on your turn or the Exploration Phase on anyone's turn.
 
 **Arcology** *Your architects have the ability to construct self-sustaining habitats, allowing any structure you build to provide resources.*  During your harvest action, you may name any resource type.  Treat all military symbols as this icon for this turn.  If you have a colony on a planet tile with a military and a resource symbol, you may collect either resource (or any combination of resources, if you have a higher level colony).
 
 **Botsourcing** *Your researchers have produced robots capable of completing any action assigned to them, regardless of the complexity.*  You may now choose to complete any base action as your research action.  You must pay any 1 resource of your choice to complete this action.  All other costs and rules for that action apply.
 
-   **Cloning** *FLAVOR TEXT!!!*  You may choose any technology you have on your role card to replace this technology.  This does not count as a prerequisite for higher level technologies in that line, nor does it provide the points for that technology.  Technology abilities do not stack or multiply.  You may use this to concurrently research mutually exclusive technologies.
+   **Cloning** ***FLAVOR TEXT!!!***  You may choose any technology you have on your role card to replace this technology.  This does not count as a prerequisite for higher level technologies in that line, nor does it provide the points for that technology.  Technology abilities do not stack or multiply.  You may use this to concurrently research mutually exclusive technologies.
    
-   **Memory Eraser** *FLAVOR TEXT!!!* You may name any technology on any role card.  All players who have researched this technology (including you), lose this technology and must remove their marker from it.  Each player who does so is refunded the cost (for technologies with variable costs, such as Encryption, you choose which resources are refunded).  If the technology is a prerequisite for a higher level technology, the higher levels are not affected.
+   **Memory Eraser** ***FLAVOR TEXT!!!*** You may name any technology on any role card.  All players who have researched this technology (including you), lose this technology and must remove their marker from it.  Each player who does so is refunded the cost (for technologies with variable costs, such as Encryption, you choose which resources are refunded).  If the technology is a prerequisite for a higher level technology, the higher levels are not affected.
 
 
 **Propellant Depot** *You have stashed stores of fuel and supplies throughout space, allowing your fleets to continue to travel farther to discover additional worlds to conquer.*  You may now choose to move a fleet as your research action.  All other move rules and costs apply. 
 
-   **Wormhole** *FLAVOR TEXT!!!*  During your move action, your fleet may skip over any single tile [or unexplored space?].  You may use this to jump over another player's occupied tile, a destroyed planet tile, or any other tile.  The skipped tile does not count as a tile for movement costs.  You may not collect a resource from the skipped tile from your special ability.
+   **Wormhole** ***FLAVOR TEXT!!!***  During your move action, your fleet may skip over any single tile [or unexplored space?].  You may use this to jump over another player's occupied tile, a destroyed planet tile, or any other tile.  The skipped tile does not count as a tile for movement costs.  You may not collect a resource from the skipped tile from your special ability.
    
 **Dyson Sphere** *You have the technology capable of harnessing the power of an entire star.*  You do not need to spend ⚛ to move your fleets.  All other move rules apply.  You must still pay ⚛ to support with additional fleets during an attack.   
 
