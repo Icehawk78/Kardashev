@@ -166,7 +166,7 @@ You may spend 1⚛ to support per adjacent active fleet.  Supporting fleets add 
 
 #### Research Actions
 
-**Research** - You may research a technology by paying the associated cost.  Mark your technologies on your role card.  Effects from technologies researched may be used immediately. 
+**_Research_** - You may research a technology by paying the associated cost.  Mark your technologies on your role card.  Effects from technologies researched may be used immediately. 
 
 The costs for each technology is indicated by the resource symbols at the beginning of each line, and cost one resource of each type per level.  For example, Fuel Efficiency costs 1 💎 and 1 ⚛; Boosters costs 2 💎 and 2 ⚛.  Technology costs marked with an asterisk have unique costs.
 
@@ -175,9 +175,9 @@ Some technologies also require you to have researched a prerequisite technology.
 If you choose to research a technology that is mutually exclusive with one you have already researched, you lose the benefits from the older technology and must remove it from your role card. 
 
 
-**Use Technology** - You may use any of the technologies signified with a 🔬.
+**_Use Technology_** - You may use any of the technologies signified with a 🔬.
 
-**Compile** – You may collect 1 resource of your choice from the bank.
+**_Compile_** – You may collect 1 resource of your choice from the bank.
  
 ## Game End
 
@@ -188,7 +188,7 @@ When the final space has been explored, complete the current round, and play 2 a
 
 **Scoring**
 
-        insert table shits
+<img src="/images/Scoring_Table.png" width="400px"/>
 
 The player with the highest combined score wins.  In the case of a tie, fight to the death to determine the actual winner (lasers are mandatory).
 
