@@ -1,7 +1,9 @@
 # Kardashev Game Rules
 
 #### Asteri Games
-Kardashev is a space-themed strategy game where you compete to build the most advanced space civilization by expanding your territory, researching new technology, and conquering your foes.
+
+## Objective
+The Kardashev Scale is a hypothetical method used to measure a civilization's technological advancement based on the amount of energy they can control.   Your objective is to build the most advanced civilization by expanding your territory, researching new technology, and conquering your foes. 
  
 ## Components  
 * 1 Game Board
