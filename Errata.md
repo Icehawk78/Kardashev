@@ -83,7 +83,7 @@ Once per turn, when you move a fleet, you may gain resources matching the tiles 
 
 **Boosters** *Your shipbuilders have developed a technology capable of producing extreme speed.*  When you move your fleet, you may move up to twice as far for no additional cost.  (Fuel efficiency will reduce this cost by 1⚛.)  All other move rules apply.
 
-**Salvage Drone** *You have developed a drone capable of extracting resources from your target.  THe drones are fragile, so be sure to distract their military.*  When you fail an attack against an opponent's colony and are forced to retreat, your opponent must give you 3 resouces of their choice, from their supply.  This may be used in combination with other drone technology.
+**Salvage Drone** *You have developed a drone capable of extracting resources from your target.  The drones are fragile, so be sure to distract their military.*  When you fail an attack against an opponent's colony and are forced to retreat, your opponent must give you 3 resouces of their choice, from their supply.  This may be used in combination with other drone technology.
 
 **Raider Drone** *You have developed advanced drones capable of precise, targeted extraction.*  When you fail an attack against an opponent's colony and are forced to retreat, you may name a resource type.  Your opponent must give you all of his or her resources of that type.  This may be used in combination with other drone technology.
 
@@ -95,9 +95,9 @@ Once per turn, when you move a fleet, you may gain resources matching the tiles 
 
 **Orbital Defense Array** *You have built weaponry and positioned it in orbit around your planet.  It can be used to target your own planet, if neccessary to prevent an enemy from learning your secrets.*  If an opponent succeeds on an attack against you and you lose your colony, their attacking fleet is downgraded by 1 level.  If it was a level 1 fleet, it is destroyed.  Supporting fleets are not affected.
 
-**Taxation** *Your captains have discovered the efficiency of threatening your enemies, causing them to produce additional resources for your benefit*  When an opponent harvests on their turn, and you have a fleet on a tile adjacent to their produciing colony, you may gain a matching resource for each colony (a single fleet may be adjacent to multiple colonies, and could therefore collect multiple resources).  Your opponent may choose to not harvest from that colony, causing you not to collect.  You do not gain resources from any fleets that produce resources from other technologies.
+**Taxation** *Your captains have discovered the efficiency of threatening your enemies, causing them to produce additional resources for your benefit.*  When an opponent harvests on their turn, and you have a fleet on a tile adjacent to their produciing colony, you may gain a matching resource for each colony (a single fleet may be adjacent to multiple colonies, and could therefore collect multiple resources).  Your opponent may choose to not harvest from that colony, causing you not to collect.  You do not gain resources from any fleets that produce resources from other technologies.
 
-**Blockade** *Any enemy within your range must abandon their other tasks and focus on their defense, for fear of total destruction*  Any players that have a colony on a planet tile adjacent to one of your fleets do not collect resources from those colonies when they harvest.  Your colonies' production is not affected.
+**Blockade** *Any enemy within your range must abandon their other tasks and focus on their defense, for fear of total destruction.*  Any players that have a colony on a planet tile adjacent to one of your fleets do not collect resources from those colonies when they harvest.  Your colonies' production is not affected.
 
 **Timeshares** *Your military is so strong, your enemies will glady work for you in exchange for even a fleeting promise of safety.*  On your harvest action, you may harvest from 1 colonized planet tile adjacent to each of your fleets, as if those colonies were your own.  You may not duplicate tiles if you have multiple adjacent fleets.  All other harvest rules apply.
 
