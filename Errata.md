@@ -80,7 +80,7 @@ You do not need to spend ⚛ to move your fleets.  All other move rules apply.  
 **Harvest Rover** *You have created machines capable of harvesting additional resources alongside your citizens.*  
 When you harvest, if you have a fleet on a resource planet tile able to produce resources, you may harvest one additional resource.  All other harvest rules apply.
 
-**Asteroid Mining** *You are able to remotely extract resources from uninhabited planets.*
+**Asteroid Mining** *You are able to remotely extract resources from uninhabited planets.*  
 When you harvest, if you have a fleet on an uncolonized resource planet tile, you may harvest one matching resource.  All other harvest rules apply.
 
 **Expanded Cargohold** *Fleets are now equipped with extra storage space, due to continued reduction of technology size requirements.*
