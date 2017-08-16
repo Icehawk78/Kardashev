@@ -53,7 +53,7 @@ When you build a level 1 colony, you may spend 1 💎 or 1 🍐, instead of 1 of
 **Magnetic Rake** *You have developed machinery capable of harvesting resources autonomously.*  
 You may now choose to harvest as your research action.  All other harvest rules apply.
 
-**Tractor Beam** *Your explorers are all trained to retrieve valuable resources from the planets they discover.  They can now retrieve them without landing.*
+**Tractor Beam** *Your explorers are all trained to retrieve valuable resources from the planets they discover.  They can now retrieve them without landing.* 
 Whenever you place a planet tile with a resource symbol, you may collect a matching resource.  This may be during an action on your turn or the Exploration Phase on anyone's turn.
 
 **Arcology** *Your architects have the ability to construct self-sustaining habitats, allowing any structure you build to provide resources.*  
