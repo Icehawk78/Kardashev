@@ -96,7 +96,7 @@ You may add a new type to one of your colonized planet tiles.  You may add any o
 Choose an uncolonized planet tile, adjacent to a tile occupied by your fleet and/or colony.  Flip the tile over to diplay the destroyed planet side.  Collect all matching resources.
 
 **Accretion Device** *Your scientists have developed a device capable of creating an entire habitable planet in the dead of space.*
-[You may add a type to any destroyed planet tile on the board./Choose a destroyed planet tile adjacent to a tile occupied by your fleet and/or colony.]  Spend the matching resource and place the terraform marker on the tile. You may choose any resource to place the military symbol. 
+Choose a destroyed planet tile adjacent to a tile occupied by your fleet and/or colony.  Spend a resource and place the matching terraform marker on the tile. You may choose any resource to place the military symbol. 
 
 **Fuel Efficiency** *You have developed engines with a clean burn, capable of consuming less fuel than before.*  
 Your move action costs 1 less ⚛ than it would typically take (no less than 0).  For example, if you were to move a level 1 fleet 4 tiles, pay 1 ⚛ instead of 2 ⚛.  All other move rules apply. 
