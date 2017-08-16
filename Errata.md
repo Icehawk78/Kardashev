@@ -72,7 +72,7 @@ You may name any technology on any role card.  All players who have researched t
 You may now choose to move a fleet as your research action.  All other move rules and costs apply. 
 
 **Wormhole** ***FLAVOR TEXT!!!***  
-During your move action, your fleet may skip over any single tile [or unexplored space?].  You may use this to jump over another player's occupied tile, a destroyed planet tile, or any other tile.  The skipped tile does not count as a tile for movement costs.  You may not collect a resource from the skipped tile from your special ability.
+During your move action, your fleet may skip over any single tile or unexplored space.  You may use this to jump over another player's occupied tile, a destroyed planet tile, or any other tile.  The skipped tile does not count as a tile for movement costs.  You may not collect a resource from the skipped tile from your special ability.
    
 **Dyson Sphere** *You have the technology capable of harnessing the power of an entire star.*  
 You do not need to spend ⚛ to move your fleets.  All other move rules apply.  You must still pay ⚛ to support with additional fleets during an attack.   
