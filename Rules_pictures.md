@@ -16,7 +16,7 @@ The Kardashev Scale is a hypothetical method used to measure a civilization's te
 * Resource Cards
 * Terraform Symbols
 
-              COMPONENTS PICTURE- colonies, fleets, resources, etc.  Or include w/ individual description below
+<img src="/images/Component_Overview.png"/>
 
 #### *Resource Cards*
 
@@ -59,7 +59,7 @@ Each player chooses a role (see [Roles](/Errata.md#Roles)) and gets the associat
 
 Players set up their starting pieces in the purple starting zones. Draw 1 of each resource. Your resources are kept in front of you as public information.
 
-<img src="/images/Setup.png" />
+<img src="/images/Player_Setup.png" />
 
 ## Phases
 
