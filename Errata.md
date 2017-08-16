@@ -98,13 +98,13 @@ You may add a new type to one of your colonized planet tiles.  You may add any o
 Choose an uncolonized planet tile, adjacent to a tile occupied by your fleet and/or colony.  Flip the tile over to diplay the destroyed planet side.  Collect all matching resources.
 
 **Accretion Device** *Your scientists have developed a device capable of creating an entire habitable planet in the dead of space.*  
-Choose a destroyed planet tile adjacent to a tile occupied by your fleet and/or colony.  Spend a resource and place the matching terraform marker on the tile. You may choose any resource to place the military symbol. 
+Choose a destroyed planet tile adjacent to a tile occupied by your fleet and/or colony.  Spend a resource and place the matching terraform symbol on the tile. You may choose any resource to place the military symbol. 
 
 **Fuel Efficiency** *You have developed engines with a clean burn, capable of consuming less fuel than before.*  
 Your move action costs 1 less ⚛ than it would typically take (no less than 0).  For example, if you were to move a level 1 fleet 4 tiles, pay 1 ⚛ instead of 2 ⚛.  All other move rules apply. 
 
-**Boosters** *Your shipbuilders have developed a technology capable of producing extreme speed.*  
-When you move your fleet, you may move up to twice as far for no additional cost.  (Fuel efficiency will reduce this cost by 1⚛.)  All other move rules apply.
+**Boosters** *Your shipbuilders have developed a technology capable of producing an energy burst to double your speed.*  
+When you move your fleet, you may move up to twice as far for no additional cost.  All other move rules apply.
 
 **Salvage Drone** *You have developed a drone capable of extracting resources from your target.  The drones are fragile, so be sure to distract their military.*  
 When you fail an attack against an opponent's colony and are forced to retreat, your opponent must give you 3 resouces of their choice, from their supply.  This may be used in combination with other drone technology.
@@ -112,7 +112,7 @@ When you fail an attack against an opponent's colony and are forced to retreat, 
 **Raider Drone** *You have developed advanced drones capable of precise, targeted extraction.*  
 When you fail an attack against an opponent's colony and are forced to retreat, you may name a resource type.  Your opponent must give you all of his or her resources of that type.  This may be used in combination with other drone technology.
 
-**Disrupter Drone** *Your military team has developed a weapone that leaves great destruction in your wake.*  
+**Disrupter Drone** *Your military team has developed a weapon that leaves great destruction in your wake.*  
 When you fail an attack against an opponent's colony and are forced to retreat, their colony is downgraded by one level.  If their colony was a level 1, it is destroyed.  You do not get to immediately place a colony.  This may be used in combination with other drone technology.
 
 **Proximity Fuse** *You've prepared a nasty surprise to anyone who dares attack you.*  
