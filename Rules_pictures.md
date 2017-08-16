@@ -54,7 +54,7 @@ Fleets represent your military force.  They move throughout space to attack your
 Technologies represent advancements available to you, some of which are exclusive to you.  Higher level technologies typically have prerequisites of the lower level technologies.  Some technologies are mutually exclusive- meaning you cannot concurrently use both.
 
 ## Setup
-Each player chooses a role (see [Roles](#roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.
+Each player chooses a role (see [Roles](/Errata.md#Roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.
 
 Players set up their starting pieces in the purple starting zones. Draw 1 of each resource. Your resources are kept in front of you as public information.
 
