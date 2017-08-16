@@ -127,7 +127,7 @@ On a failed attack, your offensive fleet retreats, and is pushed back into the a
 **_Supporting:_** - 
 You may spend 1⚛ to support per adjacent fleet.  Supporting fleets add their level to your strength.  You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move. 
       
-<img src="/images/Supports_Example.png" width="600px"/>
+<img src="/images/Supporting_Win_Example.png" width="600px"/>
 
 #### Research Actions
 
