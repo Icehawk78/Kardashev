@@ -2,72 +2,86 @@
 
 **Generalist**
 
-During setup, place a level one colony and a level one fleet.
+During setup, place a level 1 colony and a level 1 fleet.
 Instead of 1 base, 1 research, and 1 action of your choice, you may take your 3 actions in any combination you choose.
 
 **Imperialist**
 
-During setup, place a level one colony and two level one fleets.
+During setup, place a level 1 colony and 2 level 1 fleets.
 When any player builds/upgrades a fleet, you may gain a resource of your choice. If this is on your turn, you must be able to afford the fleet before gaining this resource.
 
 **Pioneer**
 
-During setup, place two level one colonies and a level one fleet.
+During setup, place 2 level 1 colonies and a level 1 fleet.
 When you build/upgrade a colony on a resource tile, you may gain a resource matching that of the tile. If you build/upgrade on a planet tile with multiple resource symbols, you may choose which resource you gain. You must be able to afford the colony before gaining this resource.
 
 **Salvager**
 
-During setup, place a level one colony and a level one fleet.  You also draw 2 additional resource cards of your choice.
-When you harvest, you may gain one bonus resource of your choice, matching one you are able to produce.
+During setup, place a level 1 colony and a level 1 fleet.  You also draw 2 additional resource cards of your choice.
+When you harvest, you may gain 1 bonus resource of your choice, matching 1 you are able to produce.
 
 **Scientist**
 
-During setup, place a level one colony and a level one fleet.  You also select a level one technology.
-When any player researches a technology, you may gain a resource matching one from the cost.  If you are researching the technology, you must be able to afford the cost before gaining this resource.
+During setup, place a level 1 colony and a level 1 fleet.  You also select a level 1 technology.
+When any player researches a technology, you may gain a resource matching 1 from the cost.  If you are researching the technology, you must be able to afford the cost before gaining this resource.
 
 **Warlord**
 
-During setup, place a level one colony and a level two fleet.
+During setup, place a level 1 colony and a level 2 fleet.
 Once per turn, when you move a fleet, you may gain resources matching the tiles of which you enter. You must be able to afford the move before gaining the resources. You may only gain a resource once per tile.
 
                     WARLORD MOVE PICTURE- w/ resources example
 
 ## Technology
 
-**Fabricators**  *Your researchers have developed machines capable of constructing an entire spacecraft at the push of a button.*  You may now choose to build or upgrade a fleet as your research action.  All other build/upgrade fleet rules apply.
+**Fabricators**  *Your researchers have developed machines capable of constructing an entire spacecraft at the push of a button.*  
+You may now choose to build or upgrade a fleet as your research action.  All other build/upgrade fleet rules apply.
 
-**Autonomous Construction** *Your fabricators are advanced enough to construct entire fleets in zero-gravity.*  You may build or upgrade a fleet on any uncolonized tile adjacent to on of your fleets.  This action costs 1 💎  and 1 ⚛.  You may not build the fleet on a tile occupied by an opponent, or on a destroyed planet.  All other build/upgrade fleet rules apply.
+**Autonomous Construction** *Your fabricators are advanced enough to construct entire fleets in zero-gravity.*  
+You may build or upgrade a fleet on any uncolonized tile adjacent to one of your fleets.  This action costs 1 💎  and 1 ⚛.  You may not build the fleet on a tile occupied by an opponent, or on a destroyed planet.  All other build/upgrade fleet rules apply.
 
-**Militarization** *Military is the way of life.  Your citizens are all cross-trained to construct fleets when duty calls.*  You may build/upgrade a fleet on any of your colonized planet tiles.  All other build/upgrade fleet rules apply.
+**Militarization** *Military is the way of life.  Your citizens are all cross-trained to construct fleets when duty calls.*  
+You may build/upgrade a fleet on any of your colonized planet tiles.  All other build/upgrade fleet rules apply.
 
 **Interstellar Ark** *Your bravest citizens embark on space exploration in hopes of establishing new homes on yet undiscovered worlds.*  You may now choose to build or upgrade a colony as your research action.  All other build/upgrade colony rules and costs apply.
 
-**Nanotube Polymers** *Your architects are adept at designing and constructing colonies, and can do so at half the cost.*  When you build a level 1 colony, you may spend 1 💎 or 1 🍐, instead of 1 of each.
+**Nanotube Polymers** *Your architects are adept at designing and constructing colonies, and can do so at half the cost.*  
+When you build a level 1 colony, you may spend 1 💎 or 1 🍐, instead of 1 of each.
 
 **Space Probe** *Your explorers have developed a device capable of mapping out deep space and assessing a planet's habitability.*  During your research action, you may draw and place a tile on any unexplored space (you are not restricted to the blue zone for this action).  You may choose to place the tile with either side face-up.  If you place a destroyed planet tile, you may collect any resource from the bank.  There is no bidding for exploration rights for this action.
 
-**Magnetic Rake** *You have developed machinery capable of harvesting resources autonomously.*  You may now choose to harvest as your research action.  All other harvest rules apply.
+**Magnetic Rake** *You have developed machinery capable of harvesting resources autonomously.*  
+You may now choose to harvest as your research action.  All other harvest rules apply.
 
-**Tractor Beam** ***FLAVOR TEXT!!!***  Whenever you place a planet tile with a resource symbol, you may collect a matching resource.  This may be during an action on your turn or the Exploration Phase on anyone's turn.
+**Tractor Beam** *Your explorers are all trained to retrieve valuable resources from the planets they discover.  They can now retrieve them without landing.*
+Whenever you place a planet tile with a resource symbol, you may collect a matching resource.  This may be during an action on your turn or the Exploration Phase on anyone's turn.
 
-**Arcology** *Your architects have the ability to construct self-sustaining habitats, allowing any structure you build to provide resources.*  During your harvest action, you may name any resource type.  Treat all military symbols as this icon for this turn.  If you have a colony on a planet tile with a military and a resource symbol, you may collect either resource (or any combination of resources, if you have a higher level colony).
+**Arcology** *Your architects have the ability to construct self-sustaining habitats, allowing any structure you build to provide resources.*  
+During your harvest action, you may name any resource type.  Treat all military symbols as this symbol for this action.  If you have a colony on a planet tile with a military and a resource symbol, you may collect either resource (or any combination of resources, if you have a higher level colony).
 
-**Botsourcing** *Your researchers have produced robots capable of completing any action assigned to them, regardless of the complexity.*  You may now choose to complete any base action as your research action.  You must pay any 1 resource of your choice to complete this action.  All other costs and rules for that action apply.
+**Botsourcing** *Your researchers have produced robots capable of completing any action assigned to them, regardless of the complexity.*  
+You may now choose to complete any base action as your research action.  You must pay any 1 resource of your choice to complete this action.  All other costs and rules for that action apply.
 
-   **Cloning** ***FLAVOR TEXT!!!***  You may choose any technology you have on your role card to replace this technology.  This does not count as a prerequisite for higher level technologies in that line, nor does it provide the points for that technology.  Technology abilities do not stack or multiply.  You may use this to concurrently research mutually exclusive technologies.
+**Cloning** ***FLAVOR TEXT!!!***  
+You may choose any technology you have on your role card to replace this technology.  This does not count as a prerequisite for higher level technologies in that line, nor does it provide the points for that technology.  Technology abilities do not stack or multiply.  You may use this to concurrently research mutually exclusive technologies.
    
-   **Memory Eraser** ***FLAVOR TEXT!!!*** You may name any technology on any role card.  All players who have researched this technology (including you), lose this technology and must remove their marker from it.  Each player who does so is refunded the cost (for technologies with variable costs, such as Encryption, you choose which resources are refunded).  If the technology is a prerequisite for a higher level technology, the higher levels are not affected.
+**Memory Eraser** ***FLAVOR TEXT!!!*** 
+You may name any technology on any role card.  All players who have researched this technology (including you), lose this technology and must remove their marker from it.  Each player who does so is refunded the cost (for technologies with variable costs, such as Encryption, you choose which resources are refunded).  If the technology is a prerequisite for a higher level technology, the higher levels are not affected.
 
+**Propellant Depot** *You have stashed stores of fuel and supplies throughout space, allowing your fleets to continue to travel farther to discover additional worlds to conquer.*  
+You may now choose to move a fleet as your research action.  All other move rules and costs apply. 
 
-**Propellant Depot** *You have stashed stores of fuel and supplies throughout space, allowing your fleets to continue to travel farther to discover additional worlds to conquer.*  You may now choose to move a fleet as your research action.  All other move rules and costs apply. 
-
-   **Wormhole** ***FLAVOR TEXT!!!***  During your move action, your fleet may skip over any single tile [or unexplored space?].  You may use this to jump over another player's occupied tile, a destroyed planet tile, or any other tile.  The skipped tile does not count as a tile for movement costs.  You may not collect a resource from the skipped tile from your special ability.
+**Wormhole** ***FLAVOR TEXT!!!***  
+During your move action, your fleet may skip over any single tile [or unexplored space?].  You may use this to jump over another player's occupied tile, a destroyed planet tile, or any other tile.  The skipped tile does not count as a tile for movement costs.  You may not collect a resource from the skipped tile from your special ability.
    
-**Dyson Sphere** *You have the technology capable of harnessing the power of an entire star.*  You do not need to spend ⚛ to move your fleets.  All other move rules apply.  You must still pay ⚛ to support with additional fleets during an attack.   
+**Dyson Sphere** *You have the technology capable of harnessing the power of an entire star.*  
+You do not need to spend ⚛ to move your fleets.  All other move rules apply.  You must still pay ⚛ to support with additional fleets during an attack.   
 
-**Harvest Rover** *You have created machines capable of harvesting additional resources alongside your citizens.*  When you harvest, if you have a fleet on a resource planet tile able to produce resources, you may harvest one additional resource.  All other harvest rules apply.
+**Harvest Rover** *You have created machines capable of harvesting additional resources alongside your citizens.*  
+When you harvest, if you have a fleet on a resource planet tile able to produce resources, you may harvest one additional resource.  All other harvest rules apply.
 
-**Asteroid Mining** *You are able to remotely extract resources from uninhabited planets.* When you harvest, if you have a fleet on an uncolonized resource planet tile, you may harvest one matching resource.  All other harvest rules apply.
+**Asteroid Mining** *You are able to remotely extract resources from uninhabited planets.* 
+When you harvest, if you have a fleet on an uncolonized resource planet tile, you may harvest one matching resource.  All other harvest rules apply.
 
 **Expanded Cargohold** *Fleets are now equipped with extra storage space, due to continued reduction of technology size requirements.*  Instead of one resource collected via the harvest rover or asteroid mining, fleets now produce resources equal to their fleet level.  For example, a level 3 fleet on a tile with a level 3 colony will produce 6 resources when using harvest rover.  All other harvest rules apply.
 
