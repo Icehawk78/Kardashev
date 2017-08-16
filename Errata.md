@@ -43,12 +43,14 @@ You may build or upgrade a fleet on any uncolonized tile adjacent to one of your
 **Militarization** *Military is the way of life.  Your citizens are all cross-trained to construct fleets when duty calls.*  
 You may build/upgrade a fleet on any of your colonized planet tiles.  All other build/upgrade fleet rules apply.
 
-**Interstellar Ark** *Your bravest citizens embark on space exploration in hopes of establishing new homes on yet undiscovered worlds.*  You may now choose to build or upgrade a colony as your research action.  All other build/upgrade colony rules and costs apply.
+**Interstellar Ark** *Your bravest citizens embark on space exploration in hopes of establishing new homes on yet undiscovered worlds.*  
+You may now choose to build or upgrade a colony as your research action.  All other build/upgrade colony rules and costs apply.
 
 **Nanotube Polymers** *Your architects are adept at designing and constructing colonies, and can do so at half the cost.*  
 When you build a level 1 colony, you may spend 1 💎 or 1 🍐, instead of 1 of each.
 
-**Space Probe** *Your explorers have developed a device capable of mapping out deep space and assessing a planet's habitability.*  During your research action, you may draw and place a tile on any unexplored space (you are not restricted to the blue zone for this action).  You may choose to place the tile with either side face-up.  If you place a destroyed planet tile, you may collect any resource from the bank.  There is no bidding for exploration rights for this action.
+**Space Probe** *Your explorers have developed a device capable of mapping out deep space and assessing a planet's habitability.*  
+During your research action, you may draw and place a tile on any unexplored space (you are not restricted to the blue zone for this action).  You may choose to place the tile with either side face-up.  If you place a destroyed planet tile, you may collect any resource from the bank.  There is no bidding for exploration rights for this action.
 
 **Magnetic Rake** *You have developed machinery capable of harvesting resources autonomously.*  
 You may now choose to harvest as your research action.  All other harvest rules apply.
@@ -65,7 +67,7 @@ You may now choose to complete any base action as your research action.  You mus
 **Cloning** ***FLAVOR TEXT!!!***  
 You may choose any technology you have on your role card to replace this technology.  This does not count as a prerequisite for higher level technologies in that line, nor does it provide the additional points for that technology.  Technology abilities do not stack or multiply.  You may use this to concurrently research mutually exclusive technologies.
    
-**Memory Eraser** ***FLAVOR TEXT!!!*** 
+**Memory Eraser** ***FLAVOR TEXT!!!***  
 You may name any technology on any role card.  All players who have researched this technology (including you), lose this technology and must remove their marker from it.  Each player who does so is refunded the cost (for technologies with variable costs, such as Encryption, you choose which resources are refunded).  If the technology is a prerequisite for a higher level technology, the higher levels are not affected.
 
 **Propellant Depot** *You have stashed stores of fuel and supplies throughout space, allowing your fleets to continue to travel farther to discover additional worlds to conquer.*  
@@ -89,7 +91,7 @@ Instead of one resource collected via the harvest rover or asteroid mining, flee
 **Encryption** *Your fleet captains can communicate with ease and secrecy, and are able to come to the aid of any citizen in need.*  
 During an attack, one of your fleets may support without paying ⚛.  You may still pay ⚛ to support with additional fleets.  This may be used for defensive or offensive supports.  All other attack and support rules apply.
 
-**Terraform** *Your team is capable of modifying the atmosphere and surface of your planets to make them more habitable and productive.* 
+**Terraform** *Your team is capable of modifying the atmosphere and surface of your planets to make them more habitable and productive.*  
 You may add a new type to one of your colonized planet tiles.  You may add any of the 3 resource types by paying 1 matching resource, or add a military icon by paying any 1 resource.  You may terraform a tile with any level colony.  Place the corresponding terraform symbol on the chosen tile.  This symbol remains on the tile, even if your colony is defeated during an attack.
 
 **Antimatter** *You have developed a weapon strong enough to obliterate any planet within range.*  
