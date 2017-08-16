@@ -51,7 +51,7 @@ Fleets represent your military force.  They move throughout space to attack your
 
 #### *Technologies*
 
-Technologies represent advancements available to you, some of which are exclusive to you.  Higher level technologies typically have prerequisites of the lower level technologies.  Some technologies are mutually exclusive- meaning you cannot concurrently use both.
+[Technologies](/Errata.md/#Technology) represent advancements available to you, some of which are exclusive to you.  Higher level technologies typically have prerequisites of the lower level technologies.  Some technologies are mutually exclusive- meaning you cannot concurrently use both.
 
 ## Setup
 Each player chooses a role (see [Roles](/Errata.md#Roles)) and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.
