@@ -95,7 +95,7 @@ You may add a new type to one of your colonized planet tiles.  You may add any o
 **Antimatter** *You have developed a weapon strong enough to obliterate any planet within range.*  
 Choose an uncolonized planet tile, adjacent to a tile occupied by your fleet and/or colony.  Flip the tile over to diplay the destroyed planet side.  Collect all matching resources.
 
-**Accretion Device** *Your scientists have developed a device capable of creating an entire habitable planet in the dead of space.*
+**Accretion Device** *Your scientists have developed a device capable of creating an entire habitable planet in the dead of space.*  
 Choose a destroyed planet tile adjacent to a tile occupied by your fleet and/or colony.  Spend a resource and place the matching terraform marker on the tile. You may choose any resource to place the military symbol. 
 
 **Fuel Efficiency** *You have developed engines with a clean burn, capable of consuming less fuel than before.*  
@@ -122,9 +122,10 @@ If an opponent fails an attack against your colony and they are forced to retrea
 **Orbital Defense Array** *You have built weaponry and positioned it in orbit around your planet.  It can be used to target your own planet, if neccessary to prevent an enemy from learning your secrets.*  
 If an opponent succeeds on an attack against you and you lose your colony, their attacking fleet is downgraded by 1 level.  If it was a level 1 fleet, it is destroyed.  Supporting fleets are not affected.
 
-**Taxation** *Your captains have discovered the efficiency of threatening your enemies, causing them to produce additional resources for your benefit.*  When an opponent harvests on their turn, and you have a fleet on a tile adjacent to their produciing colony, you may gain a matching resource for each colony (a single fleet may be adjacent to multiple colonies, and could therefore collect multiple resources).  Your opponent may choose to not harvest from that colony, causing you not to collect.  You do not gain resources from any fleets that produce resources from other technologies.
+**Taxation** *Your captains have discovered the efficiency of threatening your enemies, causing them to produce additional resources for your benefit.*  
+When an opponent harvests on their turn, and you have a fleet on a tile adjacent to their produciing colony, you may gain a matching resource for each colony (a single fleet may be adjacent to multiple colonies, and could therefore collect multiple resources).  Your opponent may choose to not harvest from that colony, causing you not to collect.  You do not gain resources from any fleets that produce resources from other technologies.
 
-**Blockade** *Any enemy within your range must abandon their other tasks and focus on their defense, for fear of total destruction.*
+**Blockade** *Any enemy within your range must abandon their other tasks and focus on their defense, for fear of total destruction.*  
 Any players that have a colony on a planet tile adjacent to one of your fleets do not collect resources from those colonies when they harvest.  Your colonies' production is not affected.
 
 **Timeshares** *Your military is so strong, your enemies will glady work for you in exchange for even a fleeting promise of safety.*
