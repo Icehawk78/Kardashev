@@ -1,31 +1,31 @@
 ## Roles 
 
-**Generalist**
+**Generalist**  
 
 During setup, place a level 1 colony and a level 1 fleet.
 Instead of 1 base, 1 research, and 1 action of your choice, you may take your 3 actions in any combination you choose.
 
-**Imperialist**
+**Imperialist**  
 
 During setup, place a level 1 colony and 2 level 1 fleets.
 When any player builds/upgrades a fleet, you may gain a resource of your choice. If this is on your turn, you must be able to afford the fleet before gaining this resource.
 
-**Pioneer**
+**Pioneer**  
 
 During setup, place 2 level 1 colonies and a level 1 fleet.
 When you build/upgrade a colony on a resource tile, you may gain a resource matching that of the tile. If you build/upgrade on a planet tile with multiple resource symbols, you may choose which resource you gain. You must be able to afford the colony before gaining this resource.
 
-**Salvager**
+**Salvager**  
 
 During setup, place a level 1 colony and a level 1 fleet.  You also draw 2 additional resource cards of your choice.
 When you harvest, you may gain 1 bonus resource of your choice, matching 1 you are able to produce.
 
-**Scientist**
+**Scientist**  
 
 During setup, place a level 1 colony and a level 1 fleet.  You also select a level 1 technology.
 When any player researches a technology, you may gain a resource matching 1 from the cost.  If you are researching the technology, you must be able to afford the cost before gaining this resource.
 
-**Warlord**
+**Warlord**  
 
 During setup, place a level 1 colony and a level 2 fleet.
 Once per turn, when you move a fleet, you may gain resources matching the tiles of which you enter. You must be able to afford the move before gaining the resources. You may only gain a resource once per tile.
@@ -83,7 +83,7 @@ When you harvest, if you have a fleet on a resource planet tile able to produce 
 **Asteroid Mining** *You are able to remotely extract resources from uninhabited planets.*  
 When you harvest, if you have a fleet on an uncolonized resource planet tile, you may harvest one matching resource.  All other harvest rules apply.
 
-**Expanded Cargohold** *Fleets are now equipped with extra storage space, due to continued reduction of technology size requirements.*
+**Expanded Cargohold** *Fleets are now equipped with extra storage space, due to continued reduction of technology size requirements.*  
 Instead of one resource collected via the harvest rover or asteroid mining, fleets now produce resources equal to their fleet level.  For example, a level 3 fleet on a tile with a level 3 colony will produce 6 resources when using harvest rover.  All other harvest rules apply.
 
 **Encryption** *Your fleet captains can communicate with ease and secrecy, and are able to come to the aid of any citizen in need.*  
@@ -116,7 +116,7 @@ When you fail an attack against an opponent's colony and are forced to retreat, 
 **Proximity Fuse** *You've prepared a nasty surprise to anyone who dares attack you.*  
 If an opponent succeeds on an attack against you and takes over your colony, they must give you 1 resource of their choice from their supply.
 
-**Defensive Turrets** *You have developed planet-to-space weapons, capable of targeting any fleet that tries attacking your colony.*
+**Defensive Turrets** *You have developed planet-to-space weapons, capable of targeting any fleet that tries attacking your colony.*  
 If an opponent fails an attack against your colony and they are forced to retreat, their attacking fleet is downgraded by 1 level.  If it was a level 1 fleet, it is destroyed.  Supporting fleets are not affected.
 
 **Orbital Defense Array** *You have built weaponry and positioned it in orbit around your planet.  It can be used to target your own planet, if neccessary to prevent an enemy from learning your secrets.*  
@@ -128,6 +128,6 @@ When an opponent harvests on their turn, and you have a fleet on a tile adjacent
 **Blockade** *Any enemy within your range must abandon their other tasks and focus on their defense, for fear of total destruction.*  
 Any players that have a colony on a planet tile adjacent to one of your fleets do not collect resources from those colonies when they harvest.  Your colonies' production is not affected.
 
-**Timeshares** *Your military is so strong, your enemies will glady work for you in exchange for even a fleeting promise of safety.*
+**Timeshares** *Your military is so strong, your enemies will glady work for you in exchange for even a fleeting promise of safety.*  
 On your harvest action, you may harvest from 1 colonized planet tile adjacent to each of your fleets, as if those colonies were your own.  You may not duplicate tiles if you have multiple adjacent fleets.  All other harvest rules apply.
 
