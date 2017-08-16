@@ -125,7 +125,7 @@ If an opponent fails an attack against your colony and they are forced to retrea
 If an opponent succeeds on an attack against you and you lose your colony, their attacking fleet is downgraded by 1 level.  If it was a level 1 fleet, it is destroyed.  Supporting fleets are not affected.
 
 **Taxation** *Your captains have discovered the efficiency of threatening your enemies, causing them to produce additional resources for your benefit.*  
-When an opponent harvests on their turn, and you have a fleet on a tile adjacent to their producing colony, you may gain a matching resource for each colony (a single fleet may be adjacent to multiple colonies, and could therefore collect multiple resources).  Your opponent may choose to not harvest from that colony, causing you not to collect.  You do not gain resources from any fleets that produce resources from other technologies.
+When an opponent harvests on their turn, and you have a fleet on a tile adjacent to their producing colony, you may gain a matching resource for each colony (a single fleet may be adjacent to multiple colonies, and could therefore collect multiple resources).  You do not gain resources from any fleets that produce resources from other technologies.
 
 **Blockade** *Any enemy within your range must abandon their other tasks and focus on their defense, for fear of total destruction.*  
 Any players that have a colony on a planet tile adjacent to one of your fleets do not collect resources from those colonies when they harvest.  Your colonies' production is not affected.
