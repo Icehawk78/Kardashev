@@ -58,8 +58,7 @@ Each player chooses a role (see [Roles](#roles)) and gets the associated startin
 
 Players set up their starting pieces in the purple starting zones. Draw 1 of each resource. Your resources are kept in front of you as public information.
 
-                    SETUP PICTURE- starting tile layout w/ role card & starting pieces)
-
+<img src="/images/Setup.png" />
 
 ## Phases
 
