@@ -116,8 +116,9 @@ If you choose to research a technology that is mutually exclusive with one you h
 Use Technology - You may use any of the technologies signified with a 🔬.
 
 Compile – You may collect 1 resource of your choice from the bank.  
- 
-Game End  
+
+Game End
+
 The game end can be triggered one of two ways: When any player has fewer than 3 colonies remaining in their supply, complete the current round, and play a final round.  If any player has been eliminated (no colonies or fleets left on the board), finish the current round.
  
 The player with the highest combined score wins. In the case of a tie, fight to the death to determine the actual winner (lasers are mandatory).
