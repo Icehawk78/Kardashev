@@ -83,7 +83,7 @@ The bulk of your turn will be spent in this phase. Each turn, you may take 1 bas
 **_Build Fleet_** - You may build a fleet on a colonized planet tile with a military symbol, up to the level of the colony.  If there is already a fleet on this tile, it is destroyed.
 
 **_Upgrade Fleet_** - You may upgrade an existing fleet by 1 level, up to level 3, providing it is on a colonized planet tile with a military symbol.
- 
+
 **_Harvest_** - You collect resources from every colonized planet tile with a resource symbol (1 card per colony level). If there are multiple resource symbols, you may choose which resources to produce.
  
 <img src="/images/Harvest_Ex1.png" width="600px"/>
