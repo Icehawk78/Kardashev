@@ -92,6 +92,7 @@ The bulk of your turn will be spent in this phase. Each turn, you may take 1 bas
 **_Move Fleet_** - You may move 1 fleet as many explored tiles as you can afford, up to 8 tiles.
 
 Movement Cost:
+
 |Fleet Level|Cost|Movement|
 |---|---|---|
 |1|1 ⚛|2 tiles|
