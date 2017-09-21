@@ -116,7 +116,8 @@ On a successful attack, you take over by replacing your opponent's colonies with
 
 On a failed attack, your offensive fleet retreats, and is pushed back into the adjacent tile from where it came. If it cannot retreat into the adjacent tile (i.e., you moved it through an unexplored space using technology or by passing through a tile that is occupied by another one of your fleets), the attacking fleet is destroyed. 
 
-**_Supporting_** - You may spend 1⚛ to support per adjacent fleet. Supporting fleets add their level to your strength. You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move.
+**_Supporting_** - 
+You may spend 1⚛ to support per adjacent fleet. Supporting fleets add their level to your strength. You may support on your turn as part of the attack, or spend the required ⚛ as defense if attacked. Supporting fleets do not move.
   
 <img src="/images/Supporting_Win_Example_1.png" width="600px"/>
 <img src="/images/Supporting_Win_Example_2.png" width="600px"/>
@@ -150,19 +151,21 @@ The player with the highest combined score wins. In the case of a tie, fight to 
 
 
 
-Ally Gameplay
+## *Ally Gameplay*
 
 When playing with 4 or 6 players, you have the option to play with an ally against others.  Follow the base rules, with these variants:
 Setup-
 Sit opposite your ally, so turns are evenly spaced.  You will each have a separate role and pieces.  
 
-Phase 1: Bidding
+### Phase 1: Bidding
+
 You and your ally will bid against the other pair or pairs of allies.  All players bid simultaneously.  Add the bids of each ally together to get the total bid.  Determine the winner and the amount owed as usual.  The winners of the bid can determine between themselves how to divide how many resources each will pay, as long as they pay the total of the second highest bid.  Pay the person who drew the tile, or the bank, as usual.
 
-Phase 2: Exploration  
+### Phase 2: Exploration
+
 The ally who is next in turn order (or the active player) chooses where and how to explore space.  
 
-Phase 3: Actions  
+### Phase 3: Actions
 
 All actions must be made by the active player, and can only be made with the active player's resources, colonies, fleets, and technology, with a few exceptions:
 
@@ -172,10 +175,9 @@ You may move a fleet through your ally's fleets and/or colonies, as if they were
 
 You can only move your own fleets on your turn, and can only attack with your own fleets.  Ally fleets already in position may provide support during your attack.  Similarly, the player being attacked and their ally may provide support for defense.  Support costs remain the same, including the discount provided via Encryption.  The fleet on the tile being attacked still defends automatically for no cost, regardless of color.  Resolve the attack as usual.
 
-
 At the end of your turn, if you and your ally are occupying the same planet tile (your fleet on their colony, for example), you may give your ally up to 3 resources.
 
-Scoring:
+**Scoring:**
 
 Add the total score between allies and compare.  The pair with the highest combined score wins.  Resolve ties as usual.
 
