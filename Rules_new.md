@@ -53,6 +53,7 @@ Fleets represent your military force. They move throughout space to attack your 
 Technologies  
 Technologies represent advancements available to you, some of which are exclusive to you. Higher level technologies typically have prerequisites of the lower level technologies. Some technologies are mutually exclusive- meaning you cannot concurrently use both.
  
+
 Setup  
 Each player chooses a role and gets the associated starting tiles. Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.  
 Players set up their starting pieces in the purple starting zones. Draw 1 of each resource. Your resources are kept in front of you as public information.
@@ -71,7 +72,7 @@ In this phase, the winner of the exploration rights chooses where and how to exp
 The player may choose to place the tile with either side face up. If the player places a destroyed planet tile, they may collect any resource from the bank.
 
 
-Phase 3: Actions
+Phase 3: Actions  
 The bulk of your turn will be spent in this phase. Each turn, you may take 1 base action, 1 research action, and 1 additional action of your choice, in any order (Generalist- see role card). Finalize all effects from an action before taking your next action. Some technologies cause slight changes in the base actions.
 
 Base Actions
@@ -122,4 +123,36 @@ Game End
 The game end can be triggered one of two ways: When any player has fewer than 3 colonies remaining in their supply, complete the current round, and play a final round.  If any player has been eliminated (no colonies or fleets left on the board), finish the current round.
  
 The player with the highest combined score wins. In the case of a tie, fight to the death to determine the actual winner (lasers are mandatory).
+
+
+
+Ally Gameplay
+
+When playing with 4 or 6 players, you have the option to play with an ally against others.  Follow the base rules, with these variants:
+Setup-
+Sit opposite your ally, so turns are evenly spaced.  You will each have a separate role and pieces.  
+
+Phase 1: Bidding
+You and your ally will bid against the other pair or pairs of allies.  All players bid simultaneously.  Add the bids of each ally together to get the total bid.  Determine the winner and the amount owed as usual.  The winners of the bid can determine between themselves how to divide how many resources each will pay, as long as they pay the total of the second highest bid.  Pay the person who drew the tile, or the bank, as usual.
+
+Phase 2: Exploration  
+The ally who is next in turn order (or the active player) chooses where and how to explore space.  
+
+Phase 3: Actions  
+
+All actions must be made by the active player, and can only be made with the active player's resources, colonies, fleets, and technology, with a few exceptions:
+
+You may build or upgrade your fleets on your ally's colonized planet tile with a military symbol. 
+
+You may move a fleet through your ally's fleets and/or colonies, as if they were your own.  You may land on your ally's colonized planet tiles, as long as there is not already a fleet there.
+
+You can only move your own fleets on your turn, and can only attack with your own fleets.  Ally fleets already in position may provide support during your attack.  Similarly, the player being attacked and their ally may provide support for defense.  Support costs remain the same, including the discount provided via Encryption.  The fleet on the tile being attacked still defends automatically for no cost, regardless of color.  Resolve the attack as usual.
+
+
+At the end of your turn, if you and your ally are occupying the same planet tile (your fleet on their colony, for example), you may give your ally up to 3 resources.
+
+Scoring:
+
+Add the total score between allies and compare.  The pair with the highest combined score wins.  Resolve ties as usual.
+
 
