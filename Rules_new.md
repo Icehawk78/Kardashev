@@ -24,6 +24,7 @@ Resource cards represent 3 types of resources – 🍐 Food, 💎 Matter, and �
 <img src="/images/Resource_Cards.png" width="400px"/>
  
 #### *Tiles*  
+
 ##### Planet Tiles  
 Planets with resource symbols are able to produce resources. Planets with the military symbol allow you to build and upgrade fleets. Some planets have multiple symbols, and can provide all benefits.
 
