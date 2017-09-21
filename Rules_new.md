@@ -22,7 +22,7 @@ The Kardashev Scale is a hypothetical method used to measure a civilization's te
 Resource cards represent 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of a single type of resource in place of another resource.
 
 <img src="/images/Resource_Cards.png" width="400px"/>
- 
+
 #### *Tiles*  
 
 ##### Planet Tiles  
