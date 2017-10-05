@@ -62,7 +62,7 @@ Players set up their starting pieces in the purple starting zones. Draw 1 of eac
 ### Phase 1: Bidding
 
 In this phase players bid their resources to claim exploration rights. At the beginning of your turn, draw and reveal a tile from the bag.
-Each player secretly decides how many resources they are willing and able to pay, and holds that many colonies (to represent resources) in their hand. All players reveal their bids simultaneously. The player with the highest bid wins and pays you the amount second highest bid (known as a Vickrey auction). If you win the bid, pay the bank. If there is a tie for highest bid, those players roll a die to determine the winner. In this case, the "second highest" bid is the same. It is the second highest bid, not second highest price.
+Each player secretly decides how many resources they are willing and able to pay, and holds that many colonies (to represent resources) in their hand. All players reveal their bids simultaneously. The player with the highest bid wins and pays the amount of the second highest bid (known as a Vickrey auction). If you win the bid, pay the bank. If there is a tie for highest bid, those players roll a die to determine the winner. In this case, the "second highest" bid is the same. It is the second highest bid, not second highest price.
 
     On Adama's turn, he draws a tile.  Han and River each bid 2, and Adama bids 1.  Han and River each roll a die to break the tied bid.  Han rolls a 3 and River rolls a 5, so River wins. She pays Adama 2 resources.
 
