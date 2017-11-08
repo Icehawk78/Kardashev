@@ -53,7 +53,7 @@ Technologies represent advancements available to you, some of which are exclusiv
 
 ## Setup  
 Each player chooses a role and gets the associated starting tiles. Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.  
-Players set up their starting pieces in the purple starting zones. Draw 1 of each resource. Your resources are kept in front of you as public information.
+Players set up their starting pieces in the designated starting zones, determined by the number of players. Draw 1 of each resource. Your resources are kept in front of you as public information.
 
 <img src="/images/Player_Setup.png" />
   
@@ -99,14 +99,14 @@ Movement Cost:
 |2|1 ⚛|1 tile|
 |3|2 ⚛|1 tile|
 
-You may not pass through destroyed planet tiles. You may pass through tiles occupied by your fleets, but cannot end the action there. You may not pass through a tile occupied by another player’s fleet or colony (see attacking). Your fleets may occupy the same tile as your colony.
+You may not pass through destroyed planet tiles. You may pass through tiles occupied by your fleets, but cannot end the action there. You may not pass through a tile occupied by an opponent's fleet or colony (see attacking). Your fleets may occupy the same tile as your colony.
  
 <img src="/images/Movement_Example.png" width="500px"/>
 
 You may move your fleet into an unexplored space and draw 1 tile to immediately explore it without bidding.  This ends your move action. (Note: The outer spaces, indicated by the white zone, may be explored this way at any time. They are not restricted as during the bidding/exploration phases). If you place a destroyed planet tile, your fleet is immediately destroyed.
 
 **_Attacking_** - 
-On your move action, if your fleet enters a tile occupied by another player’s fleet and/or colony, you attack.
+On your move action, if your fleet enters a tile occupied by an opponent's fleet and/or colony, you attack.
 
 To win an attack, you must have a higher offensive strength than your opponent's defensive strength (a tie goes to the defender). Fleet and colony strength is equal to their level, plus any modifiers gained from technology.
  
@@ -155,15 +155,15 @@ The player with the highest combined score wins. In the case of a tie, fight to 
 
 When playing with 4 or 6 players, you have the option to play with an ally against others.  Follow the base rules, with these variants:
 Setup-
-Sit opposite your ally, so turns are evenly spaced.  You will each have a separate role and pieces.  
+Set up your starting pieces in the designated starting zones, determined by the number of players.  Sit opposite your ally, so turns are evenly spaced.  You will each have a separate role and pieces.  
 
 ### Phase 1: Bidding
 
-You and your ally will bid against the other pair or pairs of allies.  All players bid simultaneously.  Add the bids of each ally together to get the total bid.  Determine the winner and the amount owed as usual.  The winners of the bid can determine between themselves how to divide how many resources each will pay, as long as they pay the total of the second highest bid.  Pay the person who drew the tile, or the bank, as usual.
+You and your ally will bid against the other pair or pairs of allies.  All players bid simultaneously.  Add the bids of each ally together to get the total bid.  Determine the winner and the amount owed as explained in the base rules.  The winners of the bid can determine between themselves how to divide how many resources each will pay, as long as they pay the total of the second highest bid.  Pay the person who drew the tile, or the bank, as explained in the base rules.
 
 ### Phase 2: Exploration
 
-The ally who is next in turn order (or the active player) chooses where and how to explore space.  
+The winners of the bid choose where and how to explore.  The ally who is next in turn order (or the active player) chooses where and how to explore space.  
 
 ### Phase 3: Actions
 
