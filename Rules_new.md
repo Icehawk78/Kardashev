@@ -56,7 +56,8 @@ Each player chooses a role and gets the associated starting tiles. Each role sta
 Players set up their starting pieces in the designated starting zones, determined by the number of players. Draw 1 of each resource. Your resources are kept in front of you as public information.
 
 <img src="/images/Player_Setup.png" />
-  
+
+
 ## Phases
 
 ### Phase 1: Bidding
