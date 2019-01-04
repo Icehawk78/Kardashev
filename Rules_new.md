@@ -3,7 +3,9 @@
  
 ## Objective
 The Kardashev Scale is a hypothetical method used to measure a civilization's technological advancement based on the amount of energy they can control.   Your objective is to build the most advanced civilization by expanding your territory, researching new technology, and conquering your foes. 
-//comments!//
+
+<span style="color:blue">some *blue* text</span>.
+
 ## Components  
 •	1 Game Board  
 •	12 Role-based Starting Tiles (2 per role)  
