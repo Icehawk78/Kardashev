@@ -181,5 +181,3 @@ At the end of your turn, if you and your ally are occupying the same planet tile
 **Scoring:**
 
 Add the total score between allies and compare.  The pair with the highest combined score wins.  Resolve ties as usual.
-
-
