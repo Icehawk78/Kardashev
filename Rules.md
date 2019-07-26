@@ -15,6 +15,7 @@ The Kardashev Scale is a hypothetical method used to measure a civilization's te
 •	Resource Cards  
 •	Terraform Symbols  
 •	6 Dice  
+• 3 Tech Cubes
  
  <img src="/images/Component_Overview.png"/>
  
