@@ -8,7 +8,7 @@ The Kardashev Scale is a hypothetical method used to measure a civilization's te
 •	1 Game Board  
 •	12 Role-based Starting Tiles (2 per role)  
 •	6 Role Cards  
-• Technology Cards (__ per role)  
+• Technology Cards (12 per role)  
 •	90 Colonies (15 of each color)  
 •	90 Fleets (15 of each color)   
 •	38 Tiles  
