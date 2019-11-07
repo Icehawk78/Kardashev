@@ -5,18 +5,18 @@
 The Kardashev Scale is a hypothetical method used to measure a civilization's technological advancement based on the amount of energy they can control.   Your objective is to build the most advanced civilization by expanding your territory, researching new technology, and conquering your foes. 
 
 ## Global Components  
-•	Game Board  
-• Bidding/Turn Order Track
-• Action Reference Cards
-•	Resource Tokens
-•	38 Tiles
+•	Game Board   
+• Bidding/Turn Order Track  
+• Action Reference Cards  
+•	Resource Tokens  
+•	38 Tiles  
 •	12 Role-based Starting Tiles (2 per role)  
-•	6 Role Cards  (1 per role)
-• 72 Technology Cards (12 per role)  
+•	6 Role Cards  (1 per role)  
+• 72 Technology Cards (12 per role)    
 •	90 Colonies (15 per role)  
 •	90 Fleets (15 per role)          
-• 36 Action Tokens (3 per role)
-•	6 Dice
+• 36 Action Tokens (3 per role)  
+•	6 Dice  
 • 4 Tech Cubes
  
  <img src="/images/Component_Overview.png"/>
@@ -57,11 +57,10 @@ The greyscale side of the technology card indicates it has not been researched; 
  
 
 ## Setup  
-Each player chooses a role and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.  
+Each player chooses a role and gets the associated components.   
 
-Set up your starting pieces in the designated starting zones, determined by the number of players.  Draw 1 of each resource.
-Lay out the Technology cards around your role card, colored-side down.  
-
+Set up your starting planet tiles in the designated starting zones, determined by the number of players.  Place a colony on either planet.  Place a fleet on either planet.  Draw 1 of each resource.  Lay out the Technology cards around your role card, colored-side down. 
+Follow the additional set up step on your role card.
 <img src="/images/Player_Setup.png" />
 
 
