@@ -17,11 +17,13 @@ The Kardashev Scale is a hypothetical method used to measure a civilization's te
 •	6 Dice  
 • 3 Tech Cubes
  
+ UPDATE OVERVIEW IMAGE WITH NEW COMPONENTS (SHOULD THIS BE OVERALL BOARD OR JUST ONE PLAYER SETUP OR INDIVIDUAL COMPONENTS HIGHLIGHTED?)
  <img src="/images/Component_Overview.png"/>
  
 #### *Resource Cards*
 Resource cards represent 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of a single type of resource in place of another resource.
 
+UPDATE WITH RESOURCE TOKEN IMAGES
 <img src="/images/Resource_Cards.png" width="400px"/>
 
 #### *Tiles*  
@@ -50,13 +52,18 @@ Fleets represent your military force. They move throughout space to attack your 
 
 #### *Technologies*  
 Technologies represent advancements available to you, some of which are exclusive to you. Higher level technologies typically have prerequisites of the lower level technologies.
- 
+
 
 ## Setup  
 Each player chooses a role and gets the associated starting tiles. Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.  
-Players set up their starting pieces in the designated starting zones, determined by the number of players. Draw 1 of each resource. Your resources are kept in front of you as public information.
+Players set up their starting pieces in the designated starting zones, determined by the number of players. 
+
+ADD IMAGE WITH ABSTRACTED HEX GRIDS FOR EACH PLAYER COUNT
+
+Draw 1 of each resource. Your resources are kept in front of you as public information.
 Place your Technology cards next to the matching symbols on your role card, colored-side down, indicating they are unpurchased.
 
+UPDATE PLAYER SETUP WITH NEW ROLE CARD, TECH CARDS, AND RESOURCE TOKENS
 <img src="/images/Player_Setup.png" />
 
 
