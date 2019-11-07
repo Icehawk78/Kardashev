@@ -4,23 +4,26 @@
 ## Objective
 The Kardashev Scale is a hypothetical method used to measure a civilization's technological advancement based on the amount of energy they can control.   Your objective is to build the most advanced civilization by expanding your territory, researching new technology, and conquering your foes. 
 
-## Components  
-•	1 Game Board  
+## Global Components  
+•	Game Board  
+• Bidding/Turn Order Track
+• Action Reference Cards
+•	Resource Tokens
+•	38 Tiles
 •	12 Role-based Starting Tiles (2 per role)  
-•	6 Role Cards  
+•	6 Role Cards  (1 per role)
 • 72 Technology Cards (12 per role)  
-•	90 Colonies (15 of each color)  
-•	90 Fleets (15 of each color)   
-•	38 Tiles  
-•	Resource Cards  
-•	Terraform Symbols  
-•	6 Dice  
-• 3 Tech Cubes
+•	90 Colonies (15 per role)  
+•	90 Fleets (15 per role)          
+• 36 Action Tokens (3 per role)
+•	6 Dice
+• 4 Tech Cubes
  
  <img src="/images/Component_Overview.png"/>
  
-#### *Resource Cards*
-Resource cards represent 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 4 of a single type of resource in place of another resource.
+#### *Resource Tokens*
+Resource tokens represent 3 types of resources – 🍐 Food, 💎 Matter, and ⚛ Energy. Resources are used to build colonies, fleets, and research technology. At any point in the game, you may spend 3 of a single type of resource in place of another resource.
+Resources are public information and must be visibly displayed in front of you.
 
 <img src="/images/Resource_Cards.png" width="400px"/>
 
@@ -36,7 +39,7 @@ The backs of the planet tiles represent destroyed planets.
 
 <img src="/images/Back.png" width="250px"/>
 
-##### Empty Tiles  
+##### Empty Space Tiles  
 Tiles without planets or symbols represent explored, but empty, space. 
  
 <img src="/images/Empty_Tile.png" width="250px"/>
@@ -49,13 +52,15 @@ Colonies may only be built on planet tiles. Colonies represent planets that are 
 Fleets represent your military force. They move throughout space to attack your opponents and to explore. They are also used defensively.
 
 #### *Technologies*  
-Technologies represent advancements available to you, some of which are exclusive to you. Higher level technologies typically have prerequisites of the lower level technologies.
+Technologies represent advancements available to you, some of which are exclusive to you.  Higher level technologies typically have prerequisites of the lower level technologies.
+The greyscale side of the technology card indicates it has not been researched; the side matching the player color indicates researched technologies. 
  
 
 ## Setup  
-Each player chooses a role and gets the associated starting tiles. Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.  
-Players set up their starting pieces in the designated starting zones, determined by the number of players. Draw 1 of each resource. Your resources are kept in front of you as public information.
-Place your Technology cards next to the matching symbols on your role card, colored-side down, indicating they are unpurchased.
+Each player chooses a role and gets the associated starting tiles.  Each role starts with a different number of colonies, fleets, resources, or technologies, as indicated on the role card.  
+
+Set up your starting pieces in the designated starting zones, determined by the number of players.  Draw 1 of each resource.
+Lay out the Technology cards around your role card, colored-side down.  
 
 <img src="/images/Player_Setup.png" />
 
@@ -64,29 +69,31 @@ Place your Technology cards next to the matching symbols on your role card, colo
 
 ### Phase 1: Bidding
 
-In this phase players bid their resources to claim exploration rights. At the beginning of each round, each player draws and reveals a tile from the bag.
-Each player secretly decides how many resources they are willing and able to pay, and holds that many colonies (to represent resources) in their hand. All players reveal their bids simultaneously. The player with the highest bid places their die in the first box on the "Bid Order" box on the board.  The player with the second highest bid places their die in the second box, and so on.  If there is a tie for any bid, those players roll to determine the winner. 
-The player who won the bid chooses which tile they want, and pays the player who drew it.  If they wish to keep their own tile, they pay the bank.  Pay the amount bid by the player next in the Bid Order.  Move your die into the Turn Order box to signify which order you wish to take you turn.
-This continues until all players have chosen a tile and their turn order.  The player who came last in Bid Order pays 0 resources.
+In this phase players bid their resources to claim exploration rights.  At the beginning of each round, each player draws and reveals a tile from the bag.
+Each player secretly decides how many of each resource they are willing to pay, and holds those resource tokens in their hand.  All players reveal their bids simultaneously. 
+Place your die with the amount bid face-up on the "Bid" section on the board. If multiple players bid the same amount, those players roll their die to break the tie. 
+The player in the highest "Bid" slot chooses their placement in the turn order, and moves their die to the matching "Turn" section on the board. They then choose which tile they wish to place. If you choose an opponent's tile, you pay the next lowest bid to that player. If you choose your own tile, pay the next lowest bid to the bank. 
+Place the tile on your role card. 
+
+Turn order and tile selection continues to the next highest roll. The last player must take the remaining tile and remaining turn order spot. They do not pay any resources. (Note: if one or more players bid 0, additional players will end up paying 0 resources)
 If there are not enough empty spaces left to explore, players will no longer draw tiles at the beginning of each round.  Bidding continues as before, but each player will pay the bank and choose only their turn order.
 
-    
+***Insert example here once I figure out wtf to say***
+
 ### Phase 2: Exploration & Actions  
 At the beginning of your turn, place the tile you chose on an unexplored space.  Exploration must be done in the blue zone until there are 3 or fewer blue spaces left unexplored.  You may choose to place the tile with either side face up. If you place a destroyed planet tile, you may collect any resource from the bank.
 
-Each turn, you may take 1 base action, 1 research action, and 1 additional action of your choice, in any order. Finalize all effects from an action before taking your next action. Some technologies cause slight changes in the base actions.
+Each turn, you may take 1 base action, 1 research action, and 1 additional action of your choice, in any order.  Place your action marker next to the action you take.  You make take duplicate actions.  Finalize all effects from an action before taking your next action. Some technologies cause slight changes in the base actions.
 
 #### Base Actions
 
-**_Build Colony/Colonize_** - You may build a level 1 colony on a tile adjacent to another of your colonies, or on a tile occupied by your fleet. Cost: 1🍐+1💎
-
-**_Upgrade Colony_** - You may upgrade one of your colonies by 1 level, up to level 3. Cost: 1🍐+1💎
+**_Build/Upgrade Colony_** - You may place a colony cube on a tile colonized by you, adjacent to another of your colonies, or on a tile occupied by your fleet.  The colony level is determined by the number of colony cubes on the tile.  You can only build up to a level 3 colony.  Cost: 1🍐+1💎
 
 **_Build Fleet_** - You may build a fleet on a colonized planet tile with a military symbol, up to the level of the colony.  If there is already a fleet on this tile, it is destroyed.
 
 **_Upgrade Fleet_** - You may upgrade an existing fleet by 1 level, up to level 3, providing it is on a colonized planet tile with a military symbol.
 
-**_Harvest_** - You collect resources from every colonized planet tile with a resource symbol (1 card per colony level). If there are multiple resource symbols, you may choose which resources to produce.
+**_Harvest_** - You may collect resources from every colonized planet tile with a resource symbol (1 card per colony level).  If there are multiple resource symbols, you may choose which resources to produce.
  
 <img src="/images/Harvest_Ex1.png" width="600px"/>
 <img src="/images/Harvest_Ex2.png" />
