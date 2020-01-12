@@ -80,19 +80,19 @@ If there are not enough empty spaces left to explore, players will no longer dra
 ***Insert example here once I figure out wtf to say***
 
 ### Phase 2: Exploration & Actions  
-At the beginning of your turn, place the tile you chose on an unexplored space.  Exploration must be done in the blue zone until there are 3 or fewer blue spaces left unexplored.  You may choose to place the tile with either side face up. If you place a destroyed planet tile, you may collect any resource from the bank.
+At the beginning of your turn, place the tile you chose on an unexplored space.  Exploration must be done in the blue zone until there are 3 or fewer blue spaces left unexplored at the start of the round.  You may choose to place the tile with either side face up. If you place a destroyed planet tile, you may collect any resource from the bank.
 
 Each turn, you may take 1 base action, 1 research action, and 1 additional action of your choice, in any order.  Place your action marker next to the action you take.  You make take duplicate actions.  Finalize all effects from an action before taking your next action. Some technologies cause slight changes in the base actions.
 
 #### Base Actions
 
-**_Build/Upgrade Colony_** - You may place a colony cube on a tile colonized by you, adjacent to another of your colonies, or on a tile occupied by your fleet.  The colony level is determined by the number of colony cubes on the tile.  You can only build up to a level 3 colony.  Cost: 1🍐+1💎
+**_Build/Upgrade Colony_** - You may place a colony cube on a tile colonized by you, on an unoccupied planet tile adjacent to another of your colonies, or on a tile occupied by your fleet.  The colony level is determined by the number of colony cubes on the tile.  You can only build up to a level 3 colony.  Cost: 1🍐+1💎
 
 **_Build Fleet_** - You may build a fleet on a colonized planet tile with a military symbol, up to the level of the colony.  If there is already a fleet on this tile, it is destroyed.
 
 **_Upgrade Fleet_** - You may upgrade an existing fleet by 1 level, up to level 3, providing it is on a colonized planet tile with a military symbol.
 
-**_Harvest_** - You may collect resources from every colonized planet tile with a resource symbol (1 card per colony level).  If there are multiple resource symbols, you may choose which resources to produce.
+**_Harvest_** - You may collect resources from every colonized planet tile with a resource symbol (1 per colony level).  If there are multiple resource symbols, you may choose which resources to produce.
  
 <img src="/images/Harvest_Ex1.png" width="600px"/>
 <img src="/images/Harvest_Ex2.png" />
