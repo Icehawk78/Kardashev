@@ -17,7 +17,7 @@ The Kardashev Scale is a hypothetical method used to measure a civilization's te
 •	90 Fleets (15 per role)          
 • 36 Action Tokens (3 per role)  
 •	6 Dice  
-• 4 Tech Cubes
+• 5 Tech Cubes
  
  <img src="/images/Component_Overview.png"/>
  
@@ -139,7 +139,7 @@ The costs for each technology is indicated by the resource symbols at the bottom
 
 Some technologies also require you to have researched a prerequisite technology. This is indicated on the unpurchased side of the card.
 
-**_Use Technology_** - You may use any of the technologies signified with a 🔬.
+**_Activate Technology_** - You may use any of the technologies signified with a 🔬.
 
 **_Compile_** – You may collect 1 resource of your choice from the bank.  
 
