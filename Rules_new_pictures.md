@@ -1,3 +1,4 @@
+<img src="/images/test.png"/>
 # Kardashev Game Rules
 
 #### Asteri Games
